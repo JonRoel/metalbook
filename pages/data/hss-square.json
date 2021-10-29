@@ -1,0 +1,821 @@
+[
+   {
+     "Standard Name": "HSS 10X10X1/2",
+     "Surface Area": 3.333,
+     "lbs per ft": 64.469,
+     "Type": "HSS Square",
+     "Description": "10X10X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 10X10X1/4",
+     "Surface Area": 3.333,
+     "lbs per ft": 32.234,
+     "Type": "HSS Square",
+     "Description": "10X10X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 10X10X3/16",
+     "Surface Area": 3.333,
+     "lbs per ft": 24.176,
+     "Type": "HSS Square",
+     "Description": "10X10X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 10X10X3/8",
+     "Surface Area": 3.333,
+     "lbs per ft": 48.352,
+     "Type": "HSS Square",
+     "Description": "10X10X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 10X10X5/16",
+     "Surface Area": 3.333,
+     "lbs per ft": 40.293,
+     "Type": "HSS Square",
+     "Description": "10X10X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 10X10X5/8",
+     "Surface Area": 3.333,
+     "lbs per ft": 80.586,
+     "Type": "HSS Square",
+     "Description": "10X10X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 12X12X1/2",
+     "Surface Area": 4,
+     "lbs per ft": 78.408,
+     "Type": "HSS Square",
+     "Description": "12X12X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 12X12X1/4",
+     "Surface Area": 4,
+     "lbs per ft": 39.204,
+     "Type": "HSS Square",
+     "Description": "12X12X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 12X12X3/16",
+     "Surface Area": 4,
+     "lbs per ft": 29.403,
+     "Type": "HSS Square",
+     "Description": "12X12X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 12X12X3/8",
+     "Surface Area": 4,
+     "lbs per ft": 58.806,
+     "Type": "HSS Square",
+     "Description": "12X12X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 12X12X5/16",
+     "Surface Area": 4,
+     "lbs per ft": 49.005,
+     "Type": "HSS Square",
+     "Description": "12X12X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 12X12X5/8",
+     "Surface Area": 4,
+     "lbs per ft": 98.01,
+     "Type": "HSS Square",
+     "Description": "12X12X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 14X14X1/2",
+     "Surface Area": 4.667,
+     "lbs per ft": 92.347,
+     "Type": "HSS Square",
+     "Description": "14X14X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 14X14X3/8",
+     "Surface Area": 4.667,
+     "lbs per ft": 69.26,
+     "Type": "HSS Square",
+     "Description": "14X14X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 14X14X5/16",
+     "Surface Area": 4.667,
+     "lbs per ft": 57.717,
+     "Type": "HSS Square",
+     "Description": "14X14X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 14X14X5/8",
+     "Surface Area": 4.667,
+     "lbs per ft": 115.434,
+     "Type": "HSS Square",
+     "Description": "14X14X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 16X16X1/2",
+     "Surface Area": 5.333,
+     "lbs per ft": 106.286,
+     "Type": "HSS Square",
+     "Description": "16X16X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 16X16X3/8",
+     "Surface Area": 5.333,
+     "lbs per ft": 79.715,
+     "Type": "HSS Square",
+     "Description": "16X16X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 16X16X5/16",
+     "Surface Area": 5.333,
+     "lbs per ft": 66.429,
+     "Type": "HSS Square",
+     "Description": "16X16X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 16X16X5/8",
+     "Surface Area": 5.333,
+     "lbs per ft": 132.858,
+     "Type": "HSS Square",
+     "Description": "16X16X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/2X2 1/2X1/4",
+     "Surface Area": 0.833,
+     "lbs per ft": 6.098,
+     "Type": "HSS Square",
+     "Description": "2 1/2X2 1/2X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/2X2 1/2X1/8",
+     "Surface Area": 0.833,
+     "lbs per ft": 3.049,
+     "Type": "HSS Square",
+     "Description": "2 1/2X2 1/2X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/2X2 1/2X3/16",
+     "Surface Area": 0.833,
+     "lbs per ft": 4.574,
+     "Type": "HSS Square",
+     "Description": "2 1/2X2 1/2X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/2X2 1/2X5/16",
+     "Surface Area": 0.833,
+     "lbs per ft": 7.623,
+     "Type": "HSS Square",
+     "Description": "2 1/2X2 1/2X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/4X2 1/4X1/4",
+     "Surface Area": 0.75,
+     "lbs per ft": 5.227,
+     "Type": "HSS Square",
+     "Description": "2 1/4X2 1/4X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/4X2 1/4X1/8",
+     "Surface Area": 0.75,
+     "lbs per ft": 2.614,
+     "Type": "HSS Square",
+     "Description": "2 1/4X2 1/4X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2 1/4X2 1/4X3/16",
+     "Surface Area": 0.75,
+     "lbs per ft": 3.92,
+     "Type": "HSS Square",
+     "Description": "2 1/4X2 1/4X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2X2X1/4",
+     "Surface Area": 0.667,
+     "lbs per ft": 4.356,
+     "Type": "HSS Square",
+     "Description": "2X2X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2X2X1/8",
+     "Surface Area": 0.667,
+     "lbs per ft": 2.178,
+     "Type": "HSS Square",
+     "Description": "2X2X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 2X2X3/16",
+     "Surface Area": 0.667,
+     "lbs per ft": 3.267,
+     "Type": "HSS Square",
+     "Description": "2X2X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3 1/2X3 1/2X1/4",
+     "Surface Area": 1.167,
+     "lbs per ft": 9.583,
+     "Type": "HSS Square",
+     "Description": "3 1/2X3 1/2X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3 1/2X3 1/2X1/8",
+     "Surface Area": 1.167,
+     "lbs per ft": 4.792,
+     "Type": "HSS Square",
+     "Description": "3 1/2X3 1/2X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3 1/2X3 1/2X3/16",
+     "Surface Area": 1.167,
+     "lbs per ft": 7.187,
+     "Type": "HSS Square",
+     "Description": "3 1/2X3 1/2X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3 1/2X3 1/2X3/8",
+     "Surface Area": 1.167,
+     "lbs per ft": 14.375,
+     "Type": "HSS Square",
+     "Description": "3 1/2X3 1/2X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3 1/2X3 1/2X5/16",
+     "Surface Area": 1.167,
+     "lbs per ft": 11.979,
+     "Type": "HSS Square",
+     "Description": "3 1/2X3 1/2X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3X3X1/4",
+     "Surface Area": 1,
+     "lbs per ft": 7.841,
+     "Type": "HSS Square",
+     "Description": "3X3X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3X3X1/8",
+     "Surface Area": 1,
+     "lbs per ft": 3.92,
+     "Type": "HSS Square",
+     "Description": "3X3X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3X3X3/16",
+     "Surface Area": 1,
+     "lbs per ft": 5.881,
+     "Type": "HSS Square",
+     "Description": "3X3X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3X3X3/8",
+     "Surface Area": 1,
+     "lbs per ft": 11.761,
+     "Type": "HSS Square",
+     "Description": "3X3X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 3X3X5/16",
+     "Surface Area": 1,
+     "lbs per ft": 9.801,
+     "Type": "HSS Square",
+     "Description": "3X3X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4 1/2X4 1/2X1/2",
+     "Surface Area": 1.5,
+     "lbs per ft": 26.136,
+     "Type": "HSS Square",
+     "Description": "4 1/2X4 1/2X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4 1/2X4 1/2X1/4",
+     "Surface Area": 1.5,
+     "lbs per ft": 13.068,
+     "Type": "HSS Square",
+     "Description": "4 1/2X4 1/2X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4 1/2X4 1/2X1/8",
+     "Surface Area": 1.5,
+     "lbs per ft": 6.534,
+     "Type": "HSS Square",
+     "Description": "4 1/2X4 1/2X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4 1/2X4 1/2X3/16",
+     "Surface Area": 1.5,
+     "lbs per ft": 9.801,
+     "Type": "HSS Square",
+     "Description": "4 1/2X4 1/2X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4 1/2X4 1/2X3/8",
+     "Surface Area": 1.5,
+     "lbs per ft": 19.602,
+     "Type": "HSS Square",
+     "Description": "4 1/2X4 1/2X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4 1/2X4 1/2X5/16",
+     "Surface Area": 1.5,
+     "lbs per ft": 16.335,
+     "Type": "HSS Square",
+     "Description": "4 1/2X4 1/2X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4X4X1/2",
+     "Surface Area": 1.333,
+     "lbs per ft": 22.651,
+     "Type": "HSS Square",
+     "Description": "4X4X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4X4X1/4",
+     "Surface Area": 1.333,
+     "lbs per ft": 11.326,
+     "Type": "HSS Square",
+     "Description": "4X4X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4X4X1/8",
+     "Surface Area": 1.333,
+     "lbs per ft": 5.663,
+     "Type": "HSS Square",
+     "Description": "4X4X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4X4X3/16",
+     "Surface Area": 1.333,
+     "lbs per ft": 8.494,
+     "Type": "HSS Square",
+     "Description": "4X4X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4X4X3/8",
+     "Surface Area": 1.333,
+     "lbs per ft": 16.988,
+     "Type": "HSS Square",
+     "Description": "4X4X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 4X4X5/16",
+     "Surface Area": 1.333,
+     "lbs per ft": 14.157,
+     "Type": "HSS Square",
+     "Description": "4X4X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5 1/2X5 1/2X1/4",
+     "Surface Area": 1.833,
+     "lbs per ft": 16.553,
+     "Type": "HSS Square",
+     "Description": "5 1/2X5 1/2X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5 1/2X5 1/2X1/8",
+     "Surface Area": 1.833,
+     "lbs per ft": 8.276,
+     "Type": "HSS Square",
+     "Description": "5 1/2X5 1/2X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5 1/2X5 1/2X3/16",
+     "Surface Area": 1.833,
+     "lbs per ft": 12.415,
+     "Type": "HSS Square",
+     "Description": "5 1/2X5 1/2X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5 1/2X5 1/2X3/8",
+     "Surface Area": 1.833,
+     "lbs per ft": 24.829,
+     "Type": "HSS Square",
+     "Description": "5 1/2X5 1/2X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5 1/2X5 1/2X5/16",
+     "Surface Area": 1.833,
+     "lbs per ft": 20.691,
+     "Type": "HSS Square",
+     "Description": "5 1/2X5 1/2X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5X5X1/2",
+     "Surface Area": 1.667,
+     "lbs per ft": 29.621,
+     "Type": "HSS Square",
+     "Description": "5X5X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5X5X1/4",
+     "Surface Area": 1.667,
+     "lbs per ft": 14.81,
+     "Type": "HSS Square",
+     "Description": "5X5X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5X5X1/8",
+     "Surface Area": 1.667,
+     "lbs per ft": 7.405,
+     "Type": "HSS Square",
+     "Description": "5X5X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5X5X3/16",
+     "Surface Area": 1.667,
+     "lbs per ft": 11.108,
+     "Type": "HSS Square",
+     "Description": "5X5X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5X5X3/8",
+     "Surface Area": 1.667,
+     "lbs per ft": 22.216,
+     "Type": "HSS Square",
+     "Description": "5X5X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 5X5X5/16",
+     "Surface Area": 1.667,
+     "lbs per ft": 18.513,
+     "Type": "HSS Square",
+     "Description": "5X5X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X1/2",
+     "Surface Area": 2,
+     "lbs per ft": 36.59,
+     "Type": "HSS Square",
+     "Description": "6X6X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X1/4",
+     "Surface Area": 2,
+     "lbs per ft": 18.295,
+     "Type": "HSS Square",
+     "Description": "6X6X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X1/8",
+     "Surface Area": 2,
+     "lbs per ft": 9.148,
+     "Type": "HSS Square",
+     "Description": "6X6X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X3/16",
+     "Surface Area": 2,
+     "lbs per ft": 13.721,
+     "Type": "HSS Square",
+     "Description": "6X6X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X3/8",
+     "Surface Area": 2,
+     "lbs per ft": 27.443,
+     "Type": "HSS Square",
+     "Description": "6X6X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X5/16",
+     "Surface Area": 2,
+     "lbs per ft": 22.869,
+     "Type": "HSS Square",
+     "Description": "6X6X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 6X6X5/8",
+     "Surface Area": 2,
+     "lbs per ft": 45.738,
+     "Type": "HSS Square",
+     "Description": "6X6X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X1/2",
+     "Surface Area": 2.333,
+     "lbs per ft": 43.56,
+     "Type": "HSS Square",
+     "Description": "7X7X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X1/4",
+     "Surface Area": 2.333,
+     "lbs per ft": 21.78,
+     "Type": "HSS Square",
+     "Description": "7X7X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X1/8",
+     "Surface Area": 2.333,
+     "lbs per ft": 10.89,
+     "Type": "HSS Square",
+     "Description": "7X7X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X3/16",
+     "Surface Area": 2.333,
+     "lbs per ft": 16.335,
+     "Type": "HSS Square",
+     "Description": "7X7X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X3/8",
+     "Surface Area": 2.333,
+     "lbs per ft": 32.67,
+     "Type": "HSS Square",
+     "Description": "7X7X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X5/16",
+     "Surface Area": 2.333,
+     "lbs per ft": 27.225,
+     "Type": "HSS Square",
+     "Description": "7X7X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 7X7X5/8",
+     "Surface Area": 2.333,
+     "lbs per ft": 54.45,
+     "Type": "HSS Square",
+     "Description": "7X7X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X1/2",
+     "Surface Area": 2.667,
+     "lbs per ft": 50.53,
+     "Type": "HSS Square",
+     "Description": "8X8X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X1/4",
+     "Surface Area": 2.667,
+     "lbs per ft": 25.265,
+     "Type": "HSS Square",
+     "Description": "8X8X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X1/8",
+     "Surface Area": 2.667,
+     "lbs per ft": 12.632,
+     "Type": "HSS Square",
+     "Description": "8X8X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X3/16",
+     "Surface Area": 2.667,
+     "lbs per ft": 18.949,
+     "Type": "HSS Square",
+     "Description": "8X8X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X3/8",
+     "Surface Area": 2.667,
+     "lbs per ft": 37.897,
+     "Type": "HSS Square",
+     "Description": "8X8X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X5/16",
+     "Surface Area": 2.667,
+     "lbs per ft": 31.581,
+     "Type": "HSS Square",
+     "Description": "8X8X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 8X8X5/8",
+     "Surface Area": 2.667,
+     "lbs per ft": 63.162,
+     "Type": "HSS Square",
+     "Description": "8X8X5/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X1/2",
+     "Surface Area": 3,
+     "lbs per ft": 57.499,
+     "Type": "HSS Square",
+     "Description": "9X9X1/2 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X1/4",
+     "Surface Area": 3,
+     "lbs per ft": 28.75,
+     "Type": "HSS Square",
+     "Description": "9X9X1/4 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X1/8",
+     "Surface Area": 3,
+     "lbs per ft": 14.375,
+     "Type": "HSS Square",
+     "Description": "9X9X1/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X3/16",
+     "Surface Area": 3,
+     "lbs per ft": 21.562,
+     "Type": "HSS Square",
+     "Description": "9X9X3/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X3/8",
+     "Surface Area": 3,
+     "lbs per ft": 43.124,
+     "Type": "HSS Square",
+     "Description": "9X9X3/8 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X5/16",
+     "Surface Area": 3,
+     "lbs per ft": 35.937,
+     "Type": "HSS Square",
+     "Description": "9X9X5/16 HSS Square",
+     "": "",
+     "__1": ""
+   },
+   {
+     "Standard Name": "HSS 9X9X5/8",
+     "Surface Area": 3,
+     "lbs per ft": 71.874,
+     "Type": "HSS Square",
+     "Description": "9X9X5/8  HSS Square",
+     "": "",
+     "__1": ""
+   }
+ ]

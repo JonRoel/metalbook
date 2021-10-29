@@ -1,0 +1,156 @@
+[
+   {
+     "Standard Name": "MT 2.5X9.45",
+     "Surface Area": 1.219,
+     "lbs per ft": 9.45,
+     "Type": "MT",
+     "Description": "2.5X9.45 MT Section",
+     "h (Profile height)": 2.5,
+     "b (Profile width)": 5,
+     "ts (s) Web thickness": 0.316,
+     "tg (t) Flange thickness": 0.416
+   },
+   {
+     "Standard Name": "MT 2X3",
+     "Surface Area": 0.924,
+     "lbs per ft": 3,
+     "Type": "MT",
+     "Description": "2X3 MT Section",
+     "h (Profile height)": 1.9,
+     "b (Profile width)": 3.8,
+     "ts (s) Web thickness": 0.13,
+     "tg (t) Flange thickness": 0.16
+   },
+   {
+     "Standard Name": "MT 3X1.85",
+     "Surface Area": 0.81,
+     "lbs per ft": 1.85,
+     "Type": "MT",
+     "Description": "3X1.85 MT Section",
+     "h (Profile height)": 2.96,
+     "b (Profile width)": 2,
+     "ts (s) Web thickness": 0.098,
+     "tg (t) Flange thickness": 0.129
+   },
+   {
+     "Standard Name": "MT 3X2.2",
+     "Surface Area": 0.791,
+     "lbs per ft": 2.2,
+     "Type": "MT",
+     "Description": "3X2.2 MT Section",
+     "h (Profile height)": 3,
+     "b (Profile width)": 1.84,
+     "ts (s) Web thickness": 0.114,
+     "tg (t) Flange thickness": 0.171
+   },
+   {
+     "Standard Name": "MT 4X3.1",
+     "Surface Area": 1.026,
+     "lbs per ft": 3.1,
+     "Type": "MT",
+     "Description": "4X3.1 MT Section",
+     "h (Profile height)": 4,
+     "b (Profile width)": 2.28,
+     "ts (s) Web thickness": 0.129,
+     "tg (t) Flange thickness": 0.177
+   },
+   {
+     "Standard Name": "MT 4X3.25",
+     "Surface Area": 1.017,
+     "lbs per ft": 3.25,
+     "Type": "MT",
+     "Description": "4X3.25 MT Section",
+     "h (Profile height)": 4,
+     "b (Profile width)": 2.28,
+     "ts (s) Web thickness": 0.135,
+     "tg (t) Flange thickness": 0.189
+   },
+   {
+     "Standard Name": "MT 5X3.75",
+     "Surface Area": 1.261,
+     "lbs per ft": 3.75,
+     "Type": "MT",
+     "Description": "5X3.75 MT Section",
+     "h (Profile height)": 5,
+     "b (Profile width)": 2.69,
+     "ts (s) Web thickness": 0.13,
+     "tg (t) Flange thickness": 0.173
+   },
+   {
+     "Standard Name": "MT 5X4",
+     "Surface Area": 1.249,
+     "lbs per ft": 4,
+     "Type": "MT",
+     "Description": "5X4 MT Section",
+     "h (Profile height)": 4.98,
+     "b (Profile width)": 2.69,
+     "ts (s) Web thickness": 0.141,
+     "tg (t) Flange thickness": 0.182
+   },
+   {
+     "Standard Name": "MT 5X4.5",
+     "Surface Area": 1.254,
+     "lbs per ft": 4.5,
+     "Type": "MT",
+     "Description": "5X4.5 MT Section",
+     "h (Profile height)": 5,
+     "b (Profile width)": 2.69,
+     "ts (s) Web thickness": 0.157,
+     "tg (t) Flange thickness": 0.206
+   },
+   {
+     "Standard Name": "MT 6.25X5.8",
+     "Surface Area": 1.597,
+     "lbs per ft": 5.8,
+     "Type": "MT",
+     "Description": "6.25X5.8 MT Section",
+     "h (Profile height)": 6.25,
+     "b (Profile width)": 3.5,
+     "ts (s) Web thickness": 0.155,
+     "tg (t) Flange thickness": 0.211
+   },
+   {
+     "Standard Name": "MT 6.25X6.2",
+     "Surface Area": 1.644,
+     "lbs per ft": 6.2,
+     "Type": "MT",
+     "Description": "6.25X6.2 MT Section",
+     "h (Profile height)": 6.27,
+     "b (Profile width)": 3.75,
+     "ts (s) Web thickness": 0.155,
+     "tg (t) Flange thickness": 0.228
+   },
+   {
+     "Standard Name": "MT 6X5",
+     "Surface Area": 1.515,
+     "lbs per ft": 5,
+     "Type": "MT",
+     "Description": "6X5 MT Section",
+     "h (Profile height)": 5.99,
+     "b (Profile width)": 3.25,
+     "ts (s) Web thickness": 0.149,
+     "tg (t) Flange thickness": 0.18
+   },
+   {
+     "Standard Name": "MT 6X5.4",
+     "Surface Area": 1.482,
+     "lbs per ft": 5.4,
+     "Type": "MT",
+     "Description": "6X5.4 MT Section",
+     "h (Profile height)": 5.99,
+     "b (Profile width)": 3.07,
+     "ts (s) Web thickness": 0.16,
+     "tg (t) Flange thickness": 0.21
+   },
+   {
+     "Standard Name": "MT 6X5.9",
+     "Surface Area": 1.485,
+     "lbs per ft": 5.9,
+     "Type": "MT",
+     "Description": "6X5.9 MT Section",
+     "h (Profile height)": 6,
+     "b (Profile width)": 3.07,
+     "ts (s) Web thickness": 0.177,
+     "tg (t) Flange thickness": 0.225
+   }
+ ]

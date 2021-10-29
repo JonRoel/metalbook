@@ -1,0 +1,233 @@
+[
+   {
+     "Standard Name": "HP10X42",
+     "Surface Area": 4.91,
+     "lbs per ft": 42,
+     "Type": "HP Shapes",
+     "Description": "10X42 HP Shape",
+     "h (Profile height)": 9.7,
+     "b (Profile width)": 10.1,
+     "ts (s) Web thickness": 0.415,
+     "tg (t) Flange thickness": 0.42
+   },
+   {
+     "Standard Name": "HP10X57",
+     "Surface Area": 4.97,
+     "lbs per ft": 57,
+     "Type": "HP Shapes",
+     "Description": "10X57 HP Shape",
+     "h (Profile height)": 9.99,
+     "b (Profile width)": 10.2,
+     "ts (s) Web thickness": 0.565,
+     "tg (t) Flange thickness": 0.565
+   },
+   {
+     "Standard Name": "HP12X53",
+     "Surface Area": 5.89,
+     "lbs per ft": 53,
+     "Type": "HP Shapes",
+     "Description": "12X53 HP Shape",
+     "h (Profile height)": 11.8,
+     "b (Profile width)": 12,
+     "ts (s) Web thickness": 0.435,
+     "tg (t) Flange thickness": 0.435
+   },
+   {
+     "Standard Name": "HP12X63",
+     "Surface Area": 5.93,
+     "lbs per ft": 63,
+     "Type": "HP Shapes",
+     "Description": "12X63 HP Shape",
+     "h (Profile height)": 11.9,
+     "b (Profile width)": 12.1,
+     "ts (s) Web thickness": 0.515,
+     "tg (t) Flange thickness": 0.515
+   },
+   {
+     "Standard Name": "HP12X74",
+     "Surface Area": 5.98,
+     "lbs per ft": 74,
+     "Type": "HP Shapes",
+     "Description": "12X74 HP Shape",
+     "h (Profile height)": 12.1,
+     "b (Profile width)": 12.2,
+     "ts (s) Web thickness": 0.605,
+     "tg (t) Flange thickness": 0.61
+   },
+   {
+     "Standard Name": "HP12X84",
+     "Surface Area": 6.04,
+     "lbs per ft": 84,
+     "Type": "HP Shapes",
+     "Description": "12X84 HP Shape",
+     "h (Profile height)": 12.3,
+     "b (Profile width)": 12.3,
+     "ts (s) Web thickness": 0.685,
+     "tg (t) Flange thickness": 0.685
+   },
+   {
+     "Standard Name": "HP14X102",
+     "Surface Area": 7.15,
+     "lbs per ft": 102,
+     "Type": "HP Shapes",
+     "Description": "14X102 HP Shape",
+     "h (Profile height)": 14,
+     "b (Profile width)": 14.8,
+     "ts (s) Web thickness": 0.705,
+     "tg (t) Flange thickness": 0.705
+   },
+   {
+     "Standard Name": "HP14X117",
+     "Surface Area": 7.2,
+     "lbs per ft": 117,
+     "Type": "HP Shapes",
+     "Description": "14X117 HP Shape",
+     "h (Profile height)": 14.2,
+     "b (Profile width)": 14.9,
+     "ts (s) Web thickness": 0.805,
+     "tg (t) Flange thickness": 0.805
+   },
+   {
+     "Standard Name": "HP14X73",
+     "Surface Area": 7.05,
+     "lbs per ft": 73,
+     "Type": "HP Shapes",
+     "Description": "14X73 HP Shape",
+     "h (Profile height)": 13.6,
+     "b (Profile width)": 14.6,
+     "ts (s) Web thickness": 0.505,
+     "tg (t) Flange thickness": 0.505
+   },
+   {
+     "Standard Name": "HP14X89",
+     "Surface Area": 7.1,
+     "lbs per ft": 89,
+     "Type": "HP Shapes",
+     "Description": "14X89 HP Shape",
+     "h (Profile height)": 13.8,
+     "b (Profile width)": 14.7,
+     "ts (s) Web thickness": 0.615,
+     "tg (t) Flange thickness": 0.615
+   },
+   {
+     "Standard Name": "HP16X101",
+     "Surface Area": 7.75,
+     "lbs per ft": 101,
+     "Type": "HP Shapes",
+     "Description": "16X101 HP Shape",
+     "h (Profile height)": 15.5,
+     "b (Profile width)": 15.8,
+     "ts (s) Web thickness": 0.625,
+     "tg (t) Flange thickness": 0.625
+   },
+   {
+     "Standard Name": "HP16X121",
+     "Surface Area": 7.81,
+     "lbs per ft": 121,
+     "Type": "HP Shapes",
+     "Description": "16X121 HP Shape",
+     "h (Profile height)": 15.8,
+     "b (Profile width)": 15.9,
+     "ts (s) Web thickness": 0.75,
+     "tg (t) Flange thickness": 0.75
+   },
+   {
+     "Standard Name": "HP16X141",
+     "Surface Area": 7.85,
+     "lbs per ft": 141,
+     "Type": "HP Shapes",
+     "Description": "16X141 HP Shape",
+     "h (Profile height)": 16,
+     "b (Profile width)": 16,
+     "ts (s) Web thickness": 0.875,
+     "tg (t) Flange thickness": 0.875
+   },
+   {
+     "Standard Name": "HP16X162",
+     "Surface Area": 7.92,
+     "lbs per ft": 162,
+     "Type": "HP Shapes",
+     "Description": "16X162 HP Shape",
+     "h (Profile height)": 16.3,
+     "b (Profile width)": 16.1,
+     "ts (s) Web thickness": 1,
+     "tg (t) Flange thickness": 1
+   },
+   {
+     "Standard Name": "HP16X183",
+     "Surface Area": 7.99,
+     "lbs per ft": 183,
+     "Type": "HP Shapes",
+     "Description": "16X183 HP Shape",
+     "h (Profile height)": 16.5,
+     "b (Profile width)": 16.3,
+     "ts (s) Web thickness": 1.13,
+     "tg (t) Flange thickness": 1.13
+   },
+   {
+     "Standard Name": "HP16X88",
+     "Surface Area": 7.69,
+     "lbs per ft": 88,
+     "Type": "HP Shapes",
+     "Description": "16X88 HP Shape",
+     "h (Profile height)": 15.3,
+     "b (Profile width)": 15.7,
+     "ts (s) Web thickness": 0.54,
+     "tg (t) Flange thickness": 0.54
+   },
+   {
+     "Standard Name": "HP18X135",
+     "Surface Area": 8.73,
+     "lbs per ft": 135,
+     "Type": "HP Shapes",
+     "Description": "18X135 HP Shape",
+     "h (Profile height)": 17.5,
+     "b (Profile width)": 17.8,
+     "ts (s) Web thickness": 0.75,
+     "tg (t) Flange thickness": 0.75
+   },
+   {
+     "Standard Name": "HP18X157",
+     "Surface Area": 8.77,
+     "lbs per ft": 157,
+     "Type": "HP Shapes",
+     "Description": "18X157 HP Shape",
+     "h (Profile height)": 17.7,
+     "b (Profile width)": 17.9,
+     "ts (s) Web thickness": 0.87,
+     "tg (t) Flange thickness": 0.87
+   },
+   {
+     "Standard Name": "HP18X181",
+     "Surface Area": 8.83,
+     "lbs per ft": 181,
+     "Type": "HP Shapes",
+     "Description": "18X181 HP Shape",
+     "h (Profile height)": 18,
+     "b (Profile width)": 18,
+     "ts (s) Web thickness": 1,
+     "tg (t) Flange thickness": 1
+   },
+   {
+     "Standard Name": "HP18X204",
+     "Surface Area": 8.9,
+     "lbs per ft": 204,
+     "Type": "HP Shapes",
+     "Description": "18X204 HP Shape",
+     "h (Profile height)": 18.3,
+     "b (Profile width)": 18.1,
+     "ts (s) Web thickness": 1.13,
+     "tg (t) Flange thickness": 1.13
+   },
+   {
+     "Standard Name": "HP8X36",
+     "Surface Area": 3.98,
+     "lbs per ft": 36,
+     "Type": "HP Shapes",
+     "Description": "8X36 HP Shape",
+     "h (Profile height)": 8.02,
+     "b (Profile width)": 8.16,
+     "ts (s) Web thickness": 0.445,
+     "tg (t) Flange thickness": 0.445
+   }
+ ]

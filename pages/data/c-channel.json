@@ -1,0 +1,290 @@
+[
+   {
+     "Standard Name": "C10X15.3",
+     "Surface Area": 2.49,
+     "lbs per ft": 15.3,
+     "Type": "C Channel",
+     "Height": 10,
+     "b Profile": 2.6,
+     "Web Thickness": 0.24
+   },
+   {
+     "Standard Name": "C10X20",
+     "Surface Area": 2.52,
+     "lbs per ft": 20,
+     "Type": "C Channel",
+     "Height": 10,
+     "b Profile": 2.74,
+     "Web Thickness": 0.379
+   },
+   {
+     "Standard Name": "C10X25",
+     "Surface Area": 2.54,
+     "lbs per ft": 25,
+     "Type": "C Channel",
+     "Height": 10,
+     "b Profile": 2.89,
+     "Web Thickness": 0.526
+   },
+   {
+     "Standard Name": "C10X30",
+     "Surface Area": 2.56,
+     "lbs per ft": 30,
+     "Type": "C Channel",
+     "Height": 10,
+     "b Profile": 3.03,
+     "Web Thickness": 0.673
+   },
+   {
+     "Standard Name": "C12X20.7",
+     "Surface Area": 2.93,
+     "lbs per ft": 20.7,
+     "Type": "C Channel",
+     "Height": 12,
+     "b Profile": 2.94,
+     "Web Thickness": 0.282
+   },
+   {
+     "Standard Name": "C12X25",
+     "Surface Area": 2.95,
+     "lbs per ft": 25,
+     "Type": "C Channel",
+     "Height": 12,
+     "b Profile": 3.05,
+     "Web Thickness": 0.387
+   },
+   {
+     "Standard Name": "C12X30",
+     "Surface Area": 2.97,
+     "lbs per ft": 30,
+     "Type": "C Channel",
+     "Height": 12,
+     "b Profile": 3.17,
+     "Web Thickness": 0.51
+   },
+   {
+     "Standard Name": "C15X33.9",
+     "Surface Area": 3.57,
+     "lbs per ft": 33.9,
+     "Type": "C Channel",
+     "Height": 15,
+     "b Profile": 3.4,
+     "Web Thickness": 0.4
+   },
+   {
+     "Standard Name": "C15X40",
+     "Surface Area": 3.59,
+     "lbs per ft": 40,
+     "Type": "C Channel",
+     "Height": 15,
+     "b Profile": 3.52,
+     "Web Thickness": 0.52
+   },
+   {
+     "Standard Name": "C15X50",
+     "Surface Area": 3.62,
+     "lbs per ft": 50,
+     "Type": "C Channel",
+     "Height": 15,
+     "b Profile": 3.72,
+     "Web Thickness": 0.716
+   },
+   {
+     "Standard Name": "C3X3.5",
+     "Surface Area": 0.93,
+     "lbs per ft": 3.5,
+     "Type": "C Channel",
+     "Height": 3,
+     "b Profile": 1.37,
+     "Web Thickness": 0.132
+   },
+   {
+     "Standard Name": "C3X4.1",
+     "Surface Area": 0.94,
+     "lbs per ft": 4.1,
+     "Type": "C Channel",
+     "Height": 3,
+     "b Profile": 1.41,
+     "Web Thickness": 0.17
+   },
+   {
+     "Standard Name": "C3X5",
+     "Surface Area": 0.96,
+     "lbs per ft": 5,
+     "Type": "C Channel",
+     "Height": 3,
+     "b Profile": 1.5,
+     "Web Thickness": 0.258
+   },
+   {
+     "Standard Name": "C3X6",
+     "Surface Area": 0.97,
+     "lbs per ft": 6,
+     "Type": "C Channel",
+     "Height": 3,
+     "b Profile": 1.6,
+     "Web Thickness": 0.356
+   },
+   {
+     "Standard Name": "C4X4.5",
+     "Surface Area": 1.17,
+     "lbs per ft": 4.5,
+     "Type": "C Channel",
+     "Height": 4,
+     "b Profile": 1.58,
+     "Web Thickness": 0.125
+   },
+   {
+     "Standard Name": "C4X5.4",
+     "Surface Area": 1.16,
+     "lbs per ft": 5.4,
+     "Type": "C Channel",
+     "Height": 4,
+     "b Profile": 1.58,
+     "Web Thickness": 0.184
+   },
+   {
+     "Standard Name": "C4X6.25",
+     "Surface Area": 1.18,
+     "lbs per ft": 6.25,
+     "Type": "C Channel",
+     "Height": 4,
+     "b Profile": 1.65,
+     "Web Thickness": 0.247
+   },
+   {
+     "Standard Name": "C4X7.25",
+     "Surface Area": 1.19,
+     "lbs per ft": 7.25,
+     "Type": "C Channel",
+     "Height": 4,
+     "b Profile": 1.72,
+     "Web Thickness": 0.321
+   },
+   {
+     "Standard Name": "C5X6.7",
+     "Surface Area": 1.39,
+     "lbs per ft": 6.7,
+     "Type": "C Channel",
+     "Height": 5,
+     "b Profile": 1.75,
+     "Web Thickness": 0.19
+   },
+   {
+     "Standard Name": "C5X9",
+     "Surface Area": 1.41,
+     "lbs per ft": 9,
+     "Type": "C Channel",
+     "Height": 5,
+     "b Profile": 1.89,
+     "Web Thickness": 0.325
+   },
+   {
+     "Standard Name": "C6X10.5",
+     "Surface Area": 1.62,
+     "lbs per ft": 10.5,
+     "Type": "C Channel",
+     "Height": 6,
+     "b Profile": 2.03,
+     "Web Thickness": 0.314
+   },
+   {
+     "Standard Name": "C6X13",
+     "Surface Area": 1.65,
+     "lbs per ft": 13,
+     "Type": "C Channel",
+     "Height": 6,
+     "b Profile": 2.16,
+     "Web Thickness": 0.437
+   },
+   {
+     "Standard Name": "C6X8.2",
+     "Surface Area": 1.61,
+     "lbs per ft": 8.2,
+     "Type": "C Channel",
+     "Height": 6,
+     "b Profile": 1.92,
+     "Web Thickness": 0.2
+   },
+   {
+     "Standard Name": "C7X12.25",
+     "Surface Area": 1.84,
+     "lbs per ft": 12.25,
+     "Type": "C Channel",
+     "Height": 7,
+     "b Profile": 2.19,
+     "Web Thickness": 0.314
+   },
+   {
+     "Standard Name": "C7X14.75",
+     "Surface Area": 1.86,
+     "lbs per ft": 14.75,
+     "Type": "C Channel",
+     "Height": 7,
+     "b Profile": 2.3,
+     "Web Thickness": 0.419
+   },
+   {
+     "Standard Name": "C7X9.8",
+     "Surface Area": 1.83,
+     "lbs per ft": 9.8,
+     "Type": "C Channel",
+     "Height": 7,
+     "b Profile": 2.09,
+     "Web Thickness": 0.21
+   },
+   {
+     "Standard Name": "C8X11.5",
+     "Surface Area": 2.05,
+     "lbs per ft": 11.5,
+     "Type": "C Channel",
+     "Height": 8,
+     "b Profile": 2.26,
+     "Web Thickness": 0.22
+   },
+   {
+     "Standard Name": "C8X13.75",
+     "Surface Area": 2.06,
+     "lbs per ft": 13.75,
+     "Type": "C Channel",
+     "Height": 8,
+     "b Profile": 2.34,
+     "Web Thickness": 0.303
+   },
+   {
+     "Standard Name": "C8X18.75",
+     "Surface Area": 2.1,
+     "lbs per ft": 18.75,
+     "Type": "C Channel",
+     "Height": 8,
+     "b Profile": 2.53,
+     "Web Thickness": 0.487
+   },
+   {
+     "Standard Name": "C9X13.4",
+     "Surface Area": 2.27,
+     "lbs per ft": 13.4,
+     "Type": "C Channel",
+     "Height": 9,
+     "b Profile": 2.43,
+     "Web Thickness": 0.233
+   },
+   {
+     "Standard Name": "C9X15",
+     "Surface Area": 2.28,
+     "lbs per ft": 15,
+     "Type": "C Channel",
+     "Height": 9,
+     "b Profile": 2.49,
+     "Web Thickness": 0.285
+   },
+   {
+     "Standard Name": "C9X20",
+     "Surface Area": 2.31,
+     "lbs per ft": 20,
+     "Type": "C Channel",
+     "Height": 9,
+     "b Profile": 2.65,
+     "Web Thickness": 0.448
+   }
+ ]

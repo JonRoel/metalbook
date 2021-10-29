@@ -1,0 +1,261 @@
+[
+   {
+     "Standard Name": "Pipe 1 1/2 Std",
+     "Surface Area": 0.9131,
+     "lbs per ft": 2.718,
+     "Type": "Pipe Std",
+     "Description": "1 1/2 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 1 1/2 x-Strong",
+     "Surface Area": 9.4934,
+     "lbs per ft": 3.361,
+     "Type": "Pipe Std",
+     "Description": "1 1/2 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 1 1/4 Std",
+     "Surface Area": 0.7907,
+     "lbs per ft": 2.275,
+     "Type": "Pipe Std",
+     "Description": "1 1/4 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 1 1/4 x-Strong",
+     "Surface Area": 0.7641,
+     "lbs per ft": 2.999,
+     "Type": "Pipe Std",
+     "Description": "1 1/4 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 1 Std",
+     "Surface Area": 0.6175,
+     "lbs per ft": 1.688,
+     "Type": "Pipe Std",
+     "Description": "1 Std Pipe"
+   },
+   {
+     "Standard Name": "Pipe 1 x-Strong",
+     "Surface Area": 0.5889,
+     "lbs per ft": 2.183,
+     "Type": "Pipe Std",
+     "Description": "1 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 1/2 Std",
+     "Surface Area": 0.373,
+     "lbs per ft": 0.852,
+     "Type": "Pipe Std",
+     "Description": "1/2 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 1/2 x-Strong",
+     "Surface Area": 0.3537,
+     "lbs per ft": 1.089,
+     "Type": "Pipe Std",
+     "Description": "1/2 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 10 Std",
+     "Surface Area": 5.4551,
+     "lbs per ft": 40.716,
+     "Type": "Pipe Std",
+     "Description": "10 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 10 x-Strong",
+     "Surface Area": 5.3845,
+     "lbs per ft": 55.054,
+     "Type": "Pipe Std",
+     "Description": "10 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 12 Std",
+     "Surface Area": 6.4954,
+     "lbs per ft": 49.809,
+     "Type": "Pipe Std",
+     "Description": "12 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 12 x-Strong",
+     "Surface Area": 6.4298,
+     "lbs per ft": 65.744,
+     "Type": "Pipe Std",
+     "Description": "12 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 2 1/2 Std",
+     "Surface Area": 1.3927,
+     "lbs per ft": 5.809,
+     "Type": "Pipe Std",
+     "Description": "2 1/2 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 2 1/2 x-Strong",
+     "Surface Area": 1.3547,
+     "lbs per ft": 7.683,
+     "Type": "Pipe Std",
+     "Description": "2 1/2 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 2 1/2 xx-Strong",
+     "Surface Area": 1.211,
+     "lbs per ft": 13.737,
+     "Type": "Pipe Std",
+     "Description": "2 1/2 Pipe xx-Strong"
+   },
+   {
+     "Standard Name": "Pipe 2 Std",
+     "Surface Area": 1.1581,
+     "lbs per ft": 3.665,
+     "Type": "Pipe Std",
+     "Description": "2 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 2 x-Strong",
+     "Surface Area": 1.1247,
+     "lbs per ft": 5.038,
+     "Type": "Pipe Std",
+     "Description": "2 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 2 xx-Strong",
+     "Surface Area": 1.0115,
+     "lbs per ft": 9.061,
+     "Type": "Pipe Std",
+     "Description": "2 Pipe xx-Strong"
+   },
+   {
+     "Standard Name": "Pipe 3 1/2 Std",
+     "Surface Area": 1.9633,
+     "lbs per ft": 9.118,
+     "Type": "Pipe Std",
+     "Description": "3 1/2 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 3 1/2 x-Strong",
+     "Surface Area": 1.9157,
+     "lbs per ft": 12.517,
+     "Type": "Pipe Std",
+     "Description": "3 1/2 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 3 Std",
+     "Surface Area": 1.7083,
+     "lbs per ft": 7.583,
+     "Type": "Pipe Std",
+     "Description": "3 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 3 x-Strong",
+     "Surface Area": 1.6647,
+     "lbs per ft": 10.262,
+     "Type": "Pipe Std",
+     "Description": "3 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 3 xx-Strong",
+     "Surface Area": 1.5089,
+     "lbs per ft": 18.601,
+     "Type": "Pipe Std",
+     "Description": "3 Pipe xx-Strong"
+   },
+   {
+     "Standard Name": "Pipe 3/4 Std",
+     "Surface Area": 0.4833,
+     "lbs per ft": 1.132,
+     "Type": "Pipe Std",
+     "Description": "3/4 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 3/4 x-Strong",
+     "Surface Area": 0.4623,
+     "lbs per ft": 1.475,
+     "Type": "Pipe Std",
+     "Description": "3/4 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 4 Std",
+     "Surface Area": 2.2234,
+     "lbs per ft": 10.8,
+     "Type": "Pipe Std",
+     "Description": "4 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 4 x-Strong",
+     "Surface Area": 2.1716,
+     "lbs per ft": 14.997,
+     "Type": "Pipe Std",
+     "Description": "4 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 4 xx-Strong",
+     "Surface Area": 1.9961,
+     "lbs per ft": 27.567,
+     "Type": "Pipe Std",
+     "Description": "4 Pipe xx-Strong"
+   },
+   {
+     "Standard Name": "Pipe 5 Std",
+     "Surface Area": 2.7717,
+     "lbs per ft": 14.623,
+     "Type": "Pipe Std",
+     "Description": "5 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 5 x-Strong",
+     "Surface Area": 2.7106,
+     "lbs per ft": 20.785,
+     "Type": "Pipe Std",
+     "Description": "5 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 5 xx-Strong",
+     "Surface Area": 2.5095,
+     "lbs per ft": 38.564,
+     "Type": "Pipe Std",
+     "Description": "5 Pipe xx-Strong"
+   },
+   {
+     "Standard Name": "Pipe 6 Std",
+     "Surface Area": 3.3196,
+     "lbs per ft": 19.007,
+     "Type": "Pipe Std",
+     "Description": "6 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 6 x-Strong",
+     "Surface Area": 3.2402,
+     "lbs per ft": 28.623,
+     "Type": "Pipe Std",
+     "Description": "6 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 6 xx-Strong",
+     "Surface Area": 3.0141,
+     "lbs per ft": 53.256,
+     "Type": "Pipe Std",
+     "Description": "6 Pipe xx-Strong"
+   },
+   {
+     "Standard Name": "Pipe 8 Std",
+     "Surface Area": 4.3432,
+     "lbs per ft": 28.598,
+     "Type": "Pipe Std",
+     "Description": "8 Pipe Std"
+   },
+   {
+     "Standard Name": "Pipe 8 x-Strong",
+     "Surface Area": 4.25,
+     "lbs per ft": 43.455,
+     "Type": "Pipe Std",
+     "Description": "8 Pipe x-Strong"
+   },
+   {
+     "Standard Name": "Pipe 8 xx-Strong",
+     "Surface Area": 4.0541,
+     "lbs per ft": 72.538,
+     "Type": "Pipe Std",
+     "Description": "8 Pipe xx-Strong"
+   }
+ ]

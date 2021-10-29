@@ -1,0 +1,322 @@
+[
+   {
+     "Standard Name": "MC10X22",
+     "Surface Area": 2.725,
+     "lbs per ft": 22,
+     "Type": "MC Channel",
+     "Description": "10X22 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC10X25",
+     "Surface Area": 2.74,
+     "lbs per ft": 25,
+     "Type": "MC Channel",
+     "Description": "10X25 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC10X28.5",
+     "Surface Area": 2.913,
+     "lbs per ft": 28.5,
+     "Type": "MC Channel",
+     "Description": "10X28.5 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC10X33.6",
+     "Surface Area": 2.938,
+     "lbs per ft": 33.6,
+     "Type": "MC Channel",
+     "Description": "10X33.6 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC10X41.1",
+     "Surface Area": 2.974,
+     "lbs per ft": 41.1,
+     "Type": "MC Channel",
+     "Description": "10X41.1 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC10X6.5",
+     "Surface Area": 2.031,
+     "lbs per ft": 6.5,
+     "Type": "MC Channel",
+     "Description": "10X6.5 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC10X8.4",
+     "Surface Area": 2.138,
+     "lbs per ft": 8.4,
+     "Type": "MC Channel",
+     "Description": "10X8.4 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X10.6",
+     "Surface Area": 2.468,
+     "lbs per ft": 10.6,
+     "Type": "MC Channel",
+     "Description": "12X10.6 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X14.3",
+     "Surface Area": 2.665,
+     "lbs per ft": 14.3,
+     "Type": "MC Channel",
+     "Description": "12X14.3 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X31",
+     "Surface Area": 3.162,
+     "lbs per ft": 31,
+     "Type": "MC Channel",
+     "Description": "12X31 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X35",
+     "Surface Area": 3.179,
+     "lbs per ft": 35,
+     "Type": "MC Channel",
+     "Description": "12X35 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X40",
+     "Surface Area": 3.198,
+     "lbs per ft": 40,
+     "Type": "MC Channel",
+     "Description": "12X40 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X45",
+     "Surface Area": 3.218,
+     "lbs per ft": 45,
+     "Type": "MC Channel",
+     "Description": "12X45 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC12X50",
+     "Surface Area": 3.241,
+     "lbs per ft": 50,
+     "Type": "MC Channel",
+     "Description": "12X50 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC13X31.8",
+     "Surface Area": 3.438,
+     "lbs per ft": 31.8,
+     "Type": "MC Channel",
+     "Description": "13X31.8 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC13X35",
+     "Surface Area": 3.449,
+     "lbs per ft": 35,
+     "Type": "MC Channel",
+     "Description": "13X35 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC13X40",
+     "Surface Area": 3.47,
+     "lbs per ft": 40,
+     "Type": "MC Channel",
+     "Description": "13X40 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC13X50",
+     "Surface Area": 3.506,
+     "lbs per ft": 50,
+     "Type": "MC Channel",
+     "Description": "13X50 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC18X42.7",
+     "Surface Area": 4.242,
+     "lbs per ft": 42.7,
+     "Type": "MC Channel",
+     "Description": "18X42.7 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC18X45.8",
+     "Surface Area": 4.25,
+     "lbs per ft": 45.8,
+     "Type": "MC Channel",
+     "Description": "18X45.8 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC18X51.9",
+     "Surface Area": 4.267,
+     "lbs per ft": 51.9,
+     "Type": "MC Channel",
+     "Description": "18X51.9 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC18X58",
+     "Surface Area": 4.283,
+     "lbs per ft": 58,
+     "Type": "MC Channel",
+     "Description": "18X58 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC3X7.1",
+     "Surface Area": 1.095,
+     "lbs per ft": 7.1,
+     "Type": "MC Channel",
+     "Description": "3X7.1 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC4X13.8",
+     "Surface Area": 1.417,
+     "lbs per ft": 13.8,
+     "Type": "MC Channel",
+     "Description": "4X13.8 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X12",
+     "Surface Area": 1.782,
+     "lbs per ft": 12,
+     "Type": "MC Channel",
+     "Description": "6X12 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X15.1",
+     "Surface Area": 1.927,
+     "lbs per ft": 15.1,
+     "Type": "MC Channel",
+     "Description": "6X15.1 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X15.3",
+     "Surface Area": 2.11,
+     "lbs per ft": 15.3,
+     "Type": "MC Channel",
+     "Description": "6X15.3 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X16.3",
+     "Surface Area": 1.938,
+     "lbs per ft": 16.3,
+     "Type": "MC Channel",
+     "Description": "6X16.3 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X18",
+     "Surface Area": 2.104,
+     "lbs per ft": 18,
+     "Type": "MC Channel",
+     "Description": "6X18 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X6.5",
+     "Surface Area": 1.591,
+     "lbs per ft": 6.5,
+     "Type": "MC Channel",
+     "Description": "6X6.5 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC6X7",
+     "Surface Area": 1.597,
+     "lbs per ft": 7,
+     "Type": "MC Channel",
+     "Description": "6X7 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC7X19.1",
+     "Surface Area": 2.258,
+     "lbs per ft": 19.1,
+     "Type": "MC Channel",
+     "Description": "7X19.1 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC7X22.7",
+     "Surface Area": 2.283,
+     "lbs per ft": 22.7,
+     "Type": "MC Channel",
+     "Description": "7X22.7 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC8X18.7",
+     "Surface Area": 2.268,
+     "lbs per ft": 18.7,
+     "Type": "MC Channel",
+     "Description": "8X18.7 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC8X20",
+     "Surface Area": 2.277,
+     "lbs per ft": 20,
+     "Type": "MC Channel",
+     "Description": "8X20 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC8X21.4",
+     "Surface Area": 2.421,
+     "lbs per ft": 21.4,
+     "Type": "MC Channel",
+     "Description": "8X21.4 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC8X22.8",
+     "Surface Area": 2.429,
+     "lbs per ft": 22.8,
+     "Type": "MC Channel",
+     "Description": "8X22.8 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC8X8.5",
+     "Surface Area": 1.927,
+     "lbs per ft": 8.5,
+     "Type": "MC Channel",
+     "Description": "8X8.5 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC9X23.9",
+     "Surface Area": 2.583,
+     "lbs per ft": 23.9,
+     "Type": "MC Channel",
+     "Description": "9X23.9 MC Channel",
+     "Material": "MS"
+   },
+   {
+     "Standard Name": "MC9X25.4",
+     "Surface Area": 2.592,
+     "lbs per ft": 25.4,
+     "Type": "MC Channel",
+     "Description": "9X25.4 MC Channel",
+     "Material": "MS"
+   }
+ ]

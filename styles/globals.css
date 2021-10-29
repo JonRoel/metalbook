@@ -1,0 +1,40 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.table-wrapper {
+  width:100%;
+  padding:5%;
+}
+
+.shape-group-1 {
+  width:800px;
+}
+
+.shape-group-2 {
+  width:800px;
+}
+
+.shape-group-1 button, .shape-group-2 button {
+  width:100px;
+  border: 1px solid white;
+  border-radius: 0px;
+  min-height:100px;
+}
+
+.current {
+  background-color:#c77e19 !important;
+}

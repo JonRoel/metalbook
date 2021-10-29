@@ -1,0 +1,898 @@
+[
+   {
+     "Standard Name": "HSSRound 1.660x0.140",
+     "Surface Area": 0.796,
+     "lbs per ft": 2.2606,
+     "Type": "HSS Round",
+     "Description": "1.660x0.140 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 1.900x0.120",
+     "Surface Area": 0.932,
+     "lbs per ft": 2.2691,
+     "Type": "HSS Round",
+     "Description": "1.900x0.120 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 1.900x0.145",
+     "Surface Area": 0.919,
+     "lbs per ft": 2.7034,
+     "Type": "HSS Round",
+     "Description": "1.900x0.145 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 1.900x0.188",
+     "Surface Area": 0.896,
+     "lbs per ft": 3.4192,
+     "Type": "HSS Round",
+     "Description": "1.900x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10.750x0.250",
+     "Surface Area": 5.498,
+     "lbs per ft": 27.8863,
+     "Type": "HSS Round",
+     "Description": "10.750x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10.750x0.375",
+     "Surface Area": 5.432,
+     "lbs per ft": 41.3315,
+     "Type": "HSS Round",
+     "Description": "10.750x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10.750x0.500",
+     "Surface Area": 5.367,
+     "lbs per ft": 54.4446,
+     "Type": "HSS Round",
+     "Description": "10.750x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10x0.188",
+     "Surface Area": 5.138,
+     "lbs per ft": 19.5964,
+     "Type": "HSS Round",
+     "Description": "10x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10x0.250",
+     "Surface Area": 5.105,
+     "lbs per ft": 25.8944,
+     "Type": "HSS Round",
+     "Description": "10x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10x0.312",
+     "Surface Area": 5.073,
+     "lbs per ft": 32.1107,
+     "Type": "HSS Round",
+     "Description": "10x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10x0.375",
+     "Surface Area": 5.04,
+     "lbs per ft": 38.3436,
+     "Type": "HSS Round",
+     "Description": "10x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10x0.500",
+     "Surface Area": 4.974,
+     "lbs per ft": 50.4609,
+     "Type": "HSS Round",
+     "Description": "10x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 10x0.625",
+     "Surface Area": 4.909,
+     "lbs per ft": 62.2462,
+     "Type": "HSS Round",
+     "Description": "10x0.625 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 12.750x0.250",
+     "Surface Area": 6.545,
+     "lbs per ft": 33.198,
+     "Type": "HSS Round",
+     "Description": "12.750x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 12.750x0.375",
+     "Surface Area": 6.48,
+     "lbs per ft": 49.299,
+     "Type": "HSS Round",
+     "Description": "12.750x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 12.750x0.500",
+     "Surface Area": 6.414,
+     "lbs per ft": 65.068,
+     "Type": "HSS Round",
+     "Description": "12.750x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 14x0.250",
+     "Surface Area": 7.2,
+     "lbs per ft": 36.5178,
+     "Type": "HSS Round",
+     "Description": "14x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 14x0.312",
+     "Surface Area": 7.167,
+     "lbs per ft": 45.3687,
+     "Type": "HSS Round",
+     "Description": "14x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 14x0.375",
+     "Surface Area": 7.134,
+     "lbs per ft": 54.2787,
+     "Type": "HSS Round",
+     "Description": "14x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 14x0.500",
+     "Surface Area": 7.069,
+     "lbs per ft": 71.7076,
+     "Type": "HSS Round",
+     "Description": "14x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 14x0.625",
+     "Surface Area": 7.003,
+     "lbs per ft": 88.8045,
+     "Type": "HSS Round",
+     "Description": "14x0.625 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 16x0.250",
+     "Surface Area": 8.246,
+     "lbs per ft": 41.8294,
+     "Type": "HSS Round",
+     "Description": "16x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 16x0.312",
+     "Surface Area": 8.214,
+     "lbs per ft": 51.9976,
+     "Type": "HSS Round",
+     "Description": "16x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 16x0.375",
+     "Surface Area": 8.181,
+     "lbs per ft": 62.2462,
+     "Type": "HSS Round",
+     "Description": "16x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 16x0.438",
+     "Surface Area": 8.148,
+     "lbs per ft": 72.4104,
+     "Type": "HSS Round",
+     "Description": "16x0.438 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 16x0.500",
+     "Surface Area": 8.115,
+     "lbs per ft": 82.3309,
+     "Type": "HSS Round",
+     "Description": "16x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 16x0.625",
+     "Surface Area": 8.05,
+     "lbs per ft": 102.0837,
+     "Type": "HSS Round",
+     "Description": "16x0.625 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 18x0.375",
+     "Surface Area": 9.228,
+     "lbs per ft": 70.2137,
+     "Type": "HSS Round",
+     "Description": "18x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 18x0.500",
+     "Surface Area": 9.163,
+     "lbs per ft": 92.9543,
+     "Type": "HSS Round",
+     "Description": "18x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.375x0.125",
+     "Surface Area": 1.178,
+     "lbs per ft": 2.9878,
+     "Type": "HSS Round",
+     "Description": "2.375x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.375x0.154",
+     "Surface Area": 1.163,
+     "lbs per ft": 3.6335,
+     "Type": "HSS Round",
+     "Description": "2.375x0.154 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.375x0.188",
+     "Surface Area": 1.145,
+     "lbs per ft": 4.3679,
+     "Type": "HSS Round",
+     "Description": "2.375x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.375x0.218",
+     "Surface Area": 1.129,
+     "lbs per ft": 4.9954,
+     "Type": "HSS Round",
+     "Description": "2.375x0.218 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.375x0.250",
+     "Surface Area": 1.113,
+     "lbs per ft": 5.6437,
+     "Type": "HSS Round",
+     "Description": "2.375x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.500x0.125",
+     "Surface Area": 1.243,
+     "lbs per ft": 3.1538,
+     "Type": "HSS Round",
+     "Description": "2.500x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.500x0.188",
+     "Surface Area": 1.211,
+     "lbs per ft": 4.6175,
+     "Type": "HSS Round",
+     "Description": "2.500x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.500x0.250",
+     "Surface Area": 1.178,
+     "lbs per ft": 5.9756,
+     "Type": "HSS Round",
+     "Description": "2.500x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.875x0.125",
+     "Surface Area": 1.44,
+     "lbs per ft": 3.6518,
+     "Type": "HSS Round",
+     "Description": "2.875x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.875x0.188",
+     "Surface Area": 1.407,
+     "lbs per ft": 5.3664,
+     "Type": "HSS Round",
+     "Description": "2.875x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.875x0.203",
+     "Surface Area": 1.399,
+     "lbs per ft": 5.7623,
+     "Type": "HSS Round",
+     "Description": "2.875x0.203 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 2.875x0.250",
+     "Surface Area": 1.374,
+     "lbs per ft": 6.9716,
+     "Type": "HSS Round",
+     "Description": "2.875x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 20x0.375",
+     "Surface Area": 10.276,
+     "lbs per ft": 78.1812,
+     "Type": "HSS Round",
+     "Description": "20x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 20x0.500",
+     "Surface Area": 10.21,
+     "lbs per ft": 103.5776,
+     "Type": "HSS Round",
+     "Description": "20x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.125",
+     "Surface Area": 1.767,
+     "lbs per ft": 4.4817,
+     "Type": "HSS Round",
+     "Description": "3.500x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.188",
+     "Surface Area": 1.734,
+     "lbs per ft": 6.6147,
+     "Type": "HSS Round",
+     "Description": "3.500x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.203",
+     "Surface Area": 1.726,
+     "lbs per ft": 7.1101,
+     "Type": "HSS Round",
+     "Description": "3.500x0.203 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.216",
+     "Surface Area": 1.719,
+     "lbs per ft": 7.5356,
+     "Type": "HSS Round",
+     "Description": "3.500x0.216 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.250",
+     "Surface Area": 1.702,
+     "lbs per ft": 8.6315,
+     "Type": "HSS Round",
+     "Description": "3.500x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.300",
+     "Surface Area": 1.676,
+     "lbs per ft": 10.1984,
+     "Type": "HSS Round",
+     "Description": "3.500x0.300 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3.500x0.313",
+     "Surface Area": 1.669,
+     "lbs per ft": 10.5971,
+     "Type": "HSS Round",
+     "Description": "3.500x0.313 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.125",
+     "Surface Area": 1.505,
+     "lbs per ft": 3.8178,
+     "Type": "HSS Round",
+     "Description": "3x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.134",
+     "Surface Area": 1.501,
+     "lbs per ft": 4.0798,
+     "Type": "HSS Round",
+     "Description": "3x0.134 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.152",
+     "Surface Area": 1.491,
+     "lbs per ft": 4.5988,
+     "Type": "HSS Round",
+     "Description": "3x0.152 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.188",
+     "Surface Area": 1.472,
+     "lbs per ft": 5.6161,
+     "Type": "HSS Round",
+     "Description": "3x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.203",
+     "Surface Area": 1.465,
+     "lbs per ft": 6.0318,
+     "Type": "HSS Round",
+     "Description": "3x0.203 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.216",
+     "Surface Area": 1.458,
+     "lbs per ft": 6.3883,
+     "Type": "HSS Round",
+     "Description": "3x0.216 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 3x0.250",
+     "Surface Area": 1.44,
+     "lbs per ft": 7.3036,
+     "Type": "HSS Round",
+     "Description": "3x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4.500x0.125",
+     "Surface Area": 2.291,
+     "lbs per ft": 5.8096,
+     "Type": "HSS Round",
+     "Description": "4.500x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4.500x0.188",
+     "Surface Area": 2.258,
+     "lbs per ft": 8.6119,
+     "Type": "HSS Round",
+     "Description": "4.500x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4.500x0.237",
+     "Surface Area": 2.232,
+     "lbs per ft": 10.7331,
+     "Type": "HSS Round",
+     "Description": "4.500x0.237 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4.500x0.337",
+     "Surface Area": 2.18,
+     "lbs per ft": 14.9038,
+     "Type": "HSS Round",
+     "Description": "4.500x0.337 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4.500x0.375",
+     "Surface Area": 2.16,
+     "lbs per ft": 16.433,
+     "Type": "HSS Round",
+     "Description": "4.500x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.125",
+     "Surface Area": 2.029,
+     "lbs per ft": 5.1457,
+     "Type": "HSS Round",
+     "Description": "4x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.188",
+     "Surface Area": 1.996,
+     "lbs per ft": 7.6133,
+     "Type": "HSS Round",
+     "Description": "4x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.220",
+     "Surface Area": 1.979,
+     "lbs per ft": 8.8344,
+     "Type": "HSS Round",
+     "Description": "4x0.220 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.226",
+     "Surface Area": 1.976,
+     "lbs per ft": 9.0609,
+     "Type": "HSS Round",
+     "Description": "4x0.226 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.237",
+     "Surface Area": 1.97,
+     "lbs per ft": 9.4742,
+     "Type": "HSS Round",
+     "Description": "4x0.237 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.250",
+     "Surface Area": 1.964,
+     "lbs per ft": 9.9594,
+     "Type": "HSS Round",
+     "Description": "4x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 4x0.313",
+     "Surface Area": 1.93,
+     "lbs per ft": 12.2597,
+     "Type": "HSS Round",
+     "Description": "4x0.313 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.500x0.258",
+     "Surface Area": 2.745,
+     "lbs per ft": 14.3674,
+     "Type": "HSS Round",
+     "Description": "5.500x0.258 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.500x0.375",
+     "Surface Area": 2.683,
+     "lbs per ft": 20.4167,
+     "Type": "HSS Round",
+     "Description": "5.500x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.500x0.500",
+     "Surface Area": 2.618,
+     "lbs per ft": 26.5584,
+     "Type": "HSS Round",
+     "Description": "5.500x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.563x0.134",
+     "Surface Area": 2.843,
+     "lbs per ft": 7.7283,
+     "Type": "HSS Round",
+     "Description": "5.563x0.134 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.563x0.188",
+     "Surface Area": 2.814,
+     "lbs per ft": 10.7349,
+     "Type": "HSS Round",
+     "Description": "5.563x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.563x0.258",
+     "Surface Area": 2.778,
+     "lbs per ft": 14.5401,
+     "Type": "HSS Round",
+     "Description": "5.563x0.258 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.563x0.375",
+     "Surface Area": 2.717,
+     "lbs per ft": 20.6677,
+     "Type": "HSS Round",
+     "Description": "5.563x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5.563x0.500",
+     "Surface Area": 2.651,
+     "lbs per ft": 26.893,
+     "Type": "HSS Round",
+     "Description": "5.563x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.125",
+     "Surface Area": 2.552,
+     "lbs per ft": 6.4736,
+     "Type": "HSS Round",
+     "Description": "5x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.188",
+     "Surface Area": 2.52,
+     "lbs per ft": 9.6105,
+     "Type": "HSS Round",
+     "Description": "5x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.250",
+     "Surface Area": 2.487,
+     "lbs per ft": 12.6152,
+     "Type": "HSS Round",
+     "Description": "5x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.258",
+     "Surface Area": 2.483,
+     "lbs per ft": 12.997,
+     "Type": "HSS Round",
+     "Description": "5x0.258 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.312",
+     "Surface Area": 2.455,
+     "lbs per ft": 15.5383,
+     "Type": "HSS Round",
+     "Description": "5x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.375",
+     "Surface Area": 2.422,
+     "lbs per ft": 18.4249,
+     "Type": "HSS Round",
+     "Description": "5x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 5x0.500",
+     "Surface Area": 2.356,
+     "lbs per ft": 23.9025,
+     "Type": "HSS Round",
+     "Description": "5x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.125",
+     "Surface Area": 3.404,
+     "lbs per ft": 8.6315,
+     "Type": "HSS Round",
+     "Description": "6.625x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.188",
+     "Surface Area": 3.37,
+     "lbs per ft": 12.8559,
+     "Type": "HSS Round",
+     "Description": "6.625x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.250",
+     "Surface Area": 3.338,
+     "lbs per ft": 16.931,
+     "Type": "HSS Round",
+     "Description": "6.625x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.280",
+     "Surface Area": 3.323,
+     "lbs per ft": 18.8734,
+     "Type": "HSS Round",
+     "Description": "6.625x0.280 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.312",
+     "Surface Area": 3.306,
+     "lbs per ft": 20.9243,
+     "Type": "HSS Round",
+     "Description": "6.625x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.375",
+     "Surface Area": 3.273,
+     "lbs per ft": 24.8985,
+     "Type": "HSS Round",
+     "Description": "6.625x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.432",
+     "Surface Area": 3.243,
+     "lbs per ft": 28.4214,
+     "Type": "HSS Round",
+     "Description": "6.625x0.432 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.625x0.500",
+     "Surface Area": 3.207,
+     "lbs per ft": 32.534,
+     "Type": "HSS Round",
+     "Description": "6.625x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.875x0.188",
+     "Surface Area": 3.501,
+     "lbs per ft": 13.3552,
+     "Type": "HSS Round",
+     "Description": "6.875x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.875x0.250",
+     "Surface Area": 3.469,
+     "lbs per ft": 17.5949,
+     "Type": "HSS Round",
+     "Description": "6.875x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.875x0.312",
+     "Surface Area": 3.436,
+     "lbs per ft": 21.753,
+     "Type": "HSS Round",
+     "Description": "6.875x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.875x0.375",
+     "Surface Area": 3.404,
+     "lbs per ft": 25.8944,
+     "Type": "HSS Round",
+     "Description": "6.875x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6.875x0.500",
+     "Surface Area": 3.338,
+     "lbs per ft": 33.8619,
+     "Type": "HSS Round",
+     "Description": "6.875x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.125",
+     "Surface Area": 3.076,
+     "lbs per ft": 7.8015,
+     "Type": "HSS Round",
+     "Description": "6x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.188",
+     "Surface Area": 3.043,
+     "lbs per ft": 11.6077,
+     "Type": "HSS Round",
+     "Description": "6x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.250",
+     "Surface Area": 3.011,
+     "lbs per ft": 15.2711,
+     "Type": "HSS Round",
+     "Description": "6x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.280",
+     "Surface Area": 2.995,
+     "lbs per ft": 17.0144,
+     "Type": "HSS Round",
+     "Description": "6x0.280 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.312",
+     "Surface Area": 2.978,
+     "lbs per ft": 18.8528,
+     "Type": "HSS Round",
+     "Description": "6x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.375",
+     "Surface Area": 2.945,
+     "lbs per ft": 22.4086,
+     "Type": "HSS Round",
+     "Description": "6x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 6x0.500",
+     "Surface Area": 2.88,
+     "lbs per ft": 29.2142,
+     "Type": "HSS Round",
+     "Description": "6x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.500x0.188",
+     "Surface Area": 3.829,
+     "lbs per ft": 14.6034,
+     "Type": "HSS Round",
+     "Description": "7.500x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.500x0.250",
+     "Surface Area": 3.796,
+     "lbs per ft": 19.2548,
+     "Type": "HSS Round",
+     "Description": "7.500x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.500x0.312",
+     "Surface Area": 3.764,
+     "lbs per ft": 23.8245,
+     "Type": "HSS Round",
+     "Description": "7.500x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.500x0.375",
+     "Surface Area": 3.731,
+     "lbs per ft": 28.3843,
+     "Type": "HSS Round",
+     "Description": "7.500x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.500x0.500",
+     "Surface Area": 3.665,
+     "lbs per ft": 37.1817,
+     "Type": "HSS Round",
+     "Description": "7.500x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.625x0.328",
+     "Surface Area": 3.821,
+     "lbs per ft": 25.4261,
+     "Type": "HSS Round",
+     "Description": "7.625x0.328 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7.625x0.375",
+     "Surface Area": 3.796,
+     "lbs per ft": 28.8822,
+     "Type": "HSS Round",
+     "Description": "7.625x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7x0.125",
+     "Surface Area": 3.6,
+     "lbs per ft": 9.1294,
+     "Type": "HSS Round",
+     "Description": "7x0.125 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7x0.188",
+     "Surface Area": 3.567,
+     "lbs per ft": 13.6049,
+     "Type": "HSS Round",
+     "Description": "7x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7x0.250",
+     "Surface Area": 3.534,
+     "lbs per ft": 17.9269,
+     "Type": "HSS Round",
+     "Description": "7x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7x0.312",
+     "Surface Area": 3.502,
+     "lbs per ft": 22.1673,
+     "Type": "HSS Round",
+     "Description": "7x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7x0.375",
+     "Surface Area": 3.469,
+     "lbs per ft": 26.3924,
+     "Type": "HSS Round",
+     "Description": "7x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 7x0.500",
+     "Surface Area": 3.404,
+     "lbs per ft": 34.5259,
+     "Type": "HSS Round",
+     "Description": "7x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 8.625x0.188",
+     "Surface Area": 4.417,
+     "lbs per ft": 16.8503,
+     "Type": "HSS Round",
+     "Description": "8.625x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 8.625x0.250",
+     "Surface Area": 4.385,
+     "lbs per ft": 22.2426,
+     "Type": "HSS Round",
+     "Description": "8.625x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 8.625x0.322",
+     "Surface Area": 4.347,
+     "lbs per ft": 28.4022,
+     "Type": "HSS Round",
+     "Description": "8.625x0.322 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 8.625x0.375",
+     "Surface Area": 4.32,
+     "lbs per ft": 32.866,
+     "Type": "HSS Round",
+     "Description": "8.625x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 8.625x0.500",
+     "Surface Area": 4.254,
+     "lbs per ft": 43.1573,
+     "Type": "HSS Round",
+     "Description": "8.625x0.500 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 8.625x0.625",
+     "Surface Area": 4.189,
+     "lbs per ft": 53.1167,
+     "Type": "HSS Round",
+     "Description": "8.625x0.625 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 9.625x0.188",
+     "Surface Area": 4.941,
+     "lbs per ft": 18.8475,
+     "Type": "HSS Round",
+     "Description": "9.625x0.188 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 9.625x0.250",
+     "Surface Area": 4.908,
+     "lbs per ft": 24.8985,
+     "Type": "HSS Round",
+     "Description": "9.625x0.250 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 9.625x0.312",
+     "Surface Area": 4.876,
+     "lbs per ft": 30.8678,
+     "Type": "HSS Round",
+     "Description": "9.625x0.312 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 9.625x0.375",
+     "Surface Area": 4.843,
+     "lbs per ft": 36.8497,
+     "Type": "HSS Round",
+     "Description": "9.625x0.375 HSS Round"
+   },
+   {
+     "Standard Name": "HSSRound 9.625x0.500",
+     "Surface Area": 4.778,
+     "lbs per ft": 48.469,
+     "Type": "HSS Round",
+     "Description": "9.625x0.500 HSS Round"
+   }
+ ]

@@ -1,0 +1,182 @@
+[
+   {
+     "Standard Name": "M10X7.5",
+     "Surface Area": 2.54,
+     "lbs per foot": 7.5,
+     "Type": "M Shapes",
+     "Description": "10X7.5 M Shape",
+     "h (Profile height)": 9.99,
+     "b (Profile width)": 2.69,
+     "ts (s) Web thickness": 0.13
+   },
+   {
+     "Standard Name": "M10X8",
+     "Surface Area": 2.53,
+     "lbs per foot": 8,
+     "Type": "M Shapes",
+     "Description": "10X8 M Shape",
+     "h (Profile height)": 9.95,
+     "b (Profile width)": 2.69,
+     "ts (s) Web thickness": 0.141
+   },
+   {
+     "Standard Name": "M10X9",
+     "Surface Area": 2.54,
+     "lbs per foot": 9,
+     "Type": "M Shapes",
+     "Description": "10X9 M Shape",
+     "h (Profile height)": 10,
+     "b (Profile width)": 2.69,
+     "ts (s) Web thickness": 0.157
+   },
+   {
+     "Standard Name": "M12.5X11.6",
+     "Surface Area": 3.22,
+     "lbs per foot": 11.6,
+     "Type": "M Shapes",
+     "Description": "12.5X11.6 M Shape",
+     "h (Profile height)": 12.5,
+     "b (Profile width)": 3.5,
+     "ts (s) Web thickness": 0.155
+   },
+   {
+     "Standard Name": "M12.5X12.4",
+     "Surface Area": 3.31,
+     "lbs per foot": 12.4,
+     "Type": "M Shapes",
+     "Description": "12.5X12.4 M Shape",
+     "h (Profile height)": 12.5,
+     "b (Profile width)": 3.75,
+     "ts (s) Web thickness": 0.155
+   },
+   {
+     "Standard Name": "M12X10",
+     "Surface Area": 3.05,
+     "lbs per foot": 10,
+     "Type": "M Shapes",
+     "Description": "12X10 M Shape",
+     "h (Profile height)": 11.97,
+     "b (Profile width)": 3.25,
+     "ts (s) Web thickness": 0.149
+   },
+   {
+     "Standard Name": "M12X10.8",
+     "Surface Area": 2.99,
+     "lbs per foot": 10.8,
+     "Type": "M Shapes",
+     "Description": "12X10.8 M Shape",
+     "h (Profile height)": 11.97,
+     "b (Profile width)": 3.07,
+     "ts (s) Web thickness": 0.16
+   },
+   {
+     "Standard Name": "M12X11.8",
+     "Surface Area": 2.99,
+     "lbs per foot": 11.8,
+     "Type": "M Shapes",
+     "Description": "12X11.8 M Shape",
+     "h (Profile height)": 12,
+     "b (Profile width)": 3.07,
+     "ts (s) Web thickness": 0.177
+   },
+   {
+     "Standard Name": "M3X2.9",
+     "Surface Area": 1.24,
+     "lbs per foot": 2.9,
+     "Type": "M Shapes",
+     "Description": "3X2.9 M Shape",
+     "h (Profile height)": 3,
+     "b (Profile width)": 2.25,
+     "ts (s) Web thickness": 0.09
+   },
+   {
+     "Standard Name": "M4X3.2",
+     "Surface Area": 1.4,
+     "lbs per foot": 3.2,
+     "Type": "M Shapes",
+     "Description": "4X3.2 M Shape",
+     "h (Profile height)": 4,
+     "b (Profile width)": 2.25,
+     "ts (s) Web thickness": 0.092
+   },
+   {
+     "Standard Name": "M4X3.45",
+     "Surface Area": 1.4,
+     "lbs per foot": 3.45,
+     "Type": "M Shapes",
+     "Description": "4X3.45 M Shape",
+     "h (Profile height)": 4,
+     "b (Profile width)": 2.25,
+     "ts (s) Web thickness": 0.092
+   },
+   {
+     "Standard Name": "M4X4.08",
+     "Surface Area": 1.4,
+     "lbs per foot": 4.08,
+     "Type": "M Shapes",
+     "Description": "4X4.08 M Shape",
+     "h (Profile height)": 4,
+     "b (Profile width)": 2.25,
+     "ts (s) Web thickness": 0.115
+   },
+   {
+     "Standard Name": "M4X6",
+     "Surface Area": 1.88,
+     "lbs per foot": 6,
+     "Type": "M Shapes",
+     "Description": "4X6 M Shape",
+     "h (Profile height)": 3.8,
+     "b (Profile width)": 3.8,
+     "ts (s) Web thickness": 0.13
+   },
+   {
+     "Standard Name": "M5X18.9",
+     "Surface Area": 2.45,
+     "lbs per foot": 18.9,
+     "Type": "M Shapes",
+     "Description": "5X18.9 M Shape",
+     "h (Profile height)": 5,
+     "b (Profile width)": 5,
+     "ts (s) Web thickness": 0.316
+   },
+   {
+     "Standard Name": "M6X3.7",
+     "Surface Area": 1.64,
+     "lbs per foot": 3.7,
+     "Type": "M Shapes",
+     "Description": "6X3.7 M Shape",
+     "h (Profile height)": 5.92,
+     "b (Profile width)": 2,
+     "ts (s) Web thickness": 0.098
+   },
+   {
+     "Standard Name": "M6X4.4",
+     "Surface Area": 1.59,
+     "lbs per foot": 4.4,
+     "Type": "M Shapes",
+     "Description": "6X4.4 M Shape",
+     "h (Profile height)": 6,
+     "b (Profile width)": 1.84,
+     "ts (s) Web thickness": 0.114
+   },
+   {
+     "Standard Name": "M8X6.2",
+     "Surface Area": 2.07,
+     "lbs per foot": 6.2,
+     "Type": "M Shapes",
+     "Description": "8X6.2 M Shape",
+     "h (Profile height)": 8,
+     "b (Profile width)": 2.28,
+     "ts (s) Web thickness": 0.129
+   },
+   {
+     "Standard Name": "M8X6.5",
+     "Surface Area": 2.07,
+     "lbs per foot": 6.5,
+     "Type": "M Shapes",
+     "Description": "8X6.5 M Shape",
+     "h (Profile height)": 8,
+     "b (Profile width)": 2.28,
+     "ts (s) Web thickness": 0.135
+   }
+ ]

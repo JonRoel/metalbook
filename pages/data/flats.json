@@ -1,0 +1,2949 @@
+[
+   {
+     "Standard Name": "FL 1 1/2X1 1/2",
+     "Surface Area": 0.5,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "1 1/2X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X1 3/4",
+     "Surface Area": 0.542,
+     "lbs per ft": 8.946,
+     "Type": "Flats",
+     "Description": "1 1/2X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X10",
+     "Surface Area": 1.917,
+     "lbs per ft": 51.12,
+     "Type": "Flats",
+     "Description": "1 1/2X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X12",
+     "Surface Area": 2.25,
+     "lbs per ft": 61.344,
+     "Type": "Flats",
+     "Description": "1 1/2X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X2",
+     "Surface Area": 0.583,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "1 1/2X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X2 1/2",
+     "Surface Area": 0.667,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "1 1/2X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X2 1/4",
+     "Surface Area": 0.625,
+     "lbs per ft": 11.502,
+     "Type": "Flats",
+     "Description": "1 1/2X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X2 3/4",
+     "Surface Area": 0.708,
+     "lbs per ft": 14.058,
+     "Type": "Flats",
+     "Description": "1 1/2X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X3",
+     "Surface Area": 0.75,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "1 1/2X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X3 1/2",
+     "Surface Area": 0.833,
+     "lbs per ft": 17.892,
+     "Type": "Flats",
+     "Description": "1 1/2X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X4",
+     "Surface Area": 0.917,
+     "lbs per ft": 20.448,
+     "Type": "Flats",
+     "Description": "1 1/2X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X4 1/2",
+     "Surface Area": 1,
+     "lbs per ft": 23.004,
+     "Type": "Flats",
+     "Description": "1 1/2X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X5",
+     "Surface Area": 1.083,
+     "lbs per ft": 25.56,
+     "Type": "Flats",
+     "Description": "1 1/2X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X5 1/2",
+     "Surface Area": 1.167,
+     "lbs per ft": 28.116,
+     "Type": "Flats",
+     "Description": "1 1/2X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X6",
+     "Surface Area": 1.25,
+     "lbs per ft": 30.672,
+     "Type": "Flats",
+     "Description": "1 1/2X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X6 1/2",
+     "Surface Area": 1.333,
+     "lbs per ft": 33.228,
+     "Type": "Flats",
+     "Description": "1 1/2X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X7",
+     "Surface Area": 1.417,
+     "lbs per ft": 35.784,
+     "Type": "Flats",
+     "Description": "1 1/2X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X7 1/2",
+     "Surface Area": 1.5,
+     "lbs per ft": 38.34,
+     "Type": "Flats",
+     "Description": "1 1/2X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X8",
+     "Surface Area": 1.583,
+     "lbs per ft": 40.896,
+     "Type": "Flats",
+     "Description": "1 1/2X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/2X9",
+     "Surface Area": 1.75,
+     "lbs per ft": 46.008,
+     "Type": "Flats",
+     "Description": "1 1/2X9 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X1 1/2",
+     "Surface Area": 0.458,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "1 1/4X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X1 3/4",
+     "Surface Area": 0.5,
+     "lbs per ft": 7.455,
+     "Type": "Flats",
+     "Description": "1 1/4X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X10",
+     "Surface Area": 1.875,
+     "lbs per ft": 42.6,
+     "Type": "Flats",
+     "Description": "1 1/4X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X12",
+     "Surface Area": 2.208,
+     "lbs per ft": 51.12,
+     "Type": "Flats",
+     "Description": "1 1/4X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X2",
+     "Surface Area": 0.542,
+     "lbs per ft": 8.52,
+     "Type": "Flats",
+     "Description": "1 1/4X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X2 1/2",
+     "Surface Area": 0.625,
+     "lbs per ft": 10.65,
+     "Type": "Flats",
+     "Description": "1 1/4X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X2 1/4",
+     "Surface Area": 0.583,
+     "lbs per ft": 9.585,
+     "Type": "Flats",
+     "Description": "1 1/4X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X2 3/4",
+     "Surface Area": 0.667,
+     "lbs per ft": 11.715,
+     "Type": "Flats",
+     "Description": "1 1/4X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X3",
+     "Surface Area": 0.708,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "1 1/4X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X3 1/2",
+     "Surface Area": 0.792,
+     "lbs per ft": 14.91,
+     "Type": "Flats",
+     "Description": "1 1/4X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X4",
+     "Surface Area": 0.875,
+     "lbs per ft": 17.04,
+     "Type": "Flats",
+     "Description": "1 1/4X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X4 1/2",
+     "Surface Area": 0.958,
+     "lbs per ft": 19.17,
+     "Type": "Flats",
+     "Description": "1 1/4X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X5",
+     "Surface Area": 1.042,
+     "lbs per ft": 21.3,
+     "Type": "Flats",
+     "Description": "1 1/4X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X5 1/2",
+     "Surface Area": 1.125,
+     "lbs per ft": 23.43,
+     "Type": "Flats",
+     "Description": "1 1/4X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X6",
+     "Surface Area": 1.208,
+     "lbs per ft": 25.56,
+     "Type": "Flats",
+     "Description": "1 1/4X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X6 1/2",
+     "Surface Area": 1.292,
+     "lbs per ft": 27.69,
+     "Type": "Flats",
+     "Description": "1 1/4X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X7",
+     "Surface Area": 1.375,
+     "lbs per ft": 29.82,
+     "Type": "Flats",
+     "Description": "1 1/4X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X7 1/2",
+     "Surface Area": 1.458,
+     "lbs per ft": 31.95,
+     "Type": "Flats",
+     "Description": "1 1/4X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X8",
+     "Surface Area": 1.542,
+     "lbs per ft": 34.08,
+     "Type": "Flats",
+     "Description": "1 1/4X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/4X9",
+     "Surface Area": 1.708,
+     "lbs per ft": 38.34,
+     "Type": "Flats",
+     "Description": "1 1/4X9 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X1 1/2",
+     "Surface Area": 0.437,
+     "lbs per ft": 5.751,
+     "Type": "Flats",
+     "Description": "1 1/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X2",
+     "Surface Area": 0.521,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "1 1/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X2 1/2",
+     "Surface Area": 0.604,
+     "lbs per ft": 9.585,
+     "Type": "Flats",
+     "Description": "1 1/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X3",
+     "Surface Area": 0.687,
+     "lbs per ft": 11.502,
+     "Type": "Flats",
+     "Description": "1 1/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X3 1/2",
+     "Surface Area": 0.771,
+     "lbs per ft": 13.419,
+     "Type": "Flats",
+     "Description": "1 1/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X4",
+     "Surface Area": 0.854,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "1 1/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X4 1/2",
+     "Surface Area": 0.937,
+     "lbs per ft": 17.253,
+     "Type": "Flats",
+     "Description": "1 1/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X5",
+     "Surface Area": 1.021,
+     "lbs per ft": 19.17,
+     "Type": "Flats",
+     "Description": "1 1/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X5 1/2",
+     "Surface Area": 1.104,
+     "lbs per ft": 21.087,
+     "Type": "Flats",
+     "Description": "1 1/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X6",
+     "Surface Area": 1.187,
+     "lbs per ft": 23.004,
+     "Type": "Flats",
+     "Description": "1 1/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X6 1/2",
+     "Surface Area": 1.271,
+     "lbs per ft": 24.921,
+     "Type": "Flats",
+     "Description": "1 1/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X7",
+     "Surface Area": 1.354,
+     "lbs per ft": 26.838,
+     "Type": "Flats",
+     "Description": "1 1/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X7 1/2",
+     "Surface Area": 1.437,
+     "lbs per ft": 28.755,
+     "Type": "Flats",
+     "Description": "1 1/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 1/8X8",
+     "Surface Area": 1.521,
+     "lbs per ft": 30.672,
+     "Type": "Flats",
+     "Description": "1 1/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X1 1/2",
+     "Surface Area": 0.542,
+     "lbs per ft": 8.946,
+     "Type": "Flats",
+     "Description": "1 3/4X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X10",
+     "Surface Area": 1.958,
+     "lbs per ft": 59.64,
+     "Type": "Flats",
+     "Description": "1 3/4X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X12",
+     "Surface Area": 2.292,
+     "lbs per ft": 71.568,
+     "Type": "Flats",
+     "Description": "1 3/4X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X2",
+     "Surface Area": 0.625,
+     "lbs per ft": 11.928,
+     "Type": "Flats",
+     "Description": "1 3/4X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X2 1/2",
+     "Surface Area": 0.708,
+     "lbs per ft": 14.91,
+     "Type": "Flats",
+     "Description": "1 3/4X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X2 1/4",
+     "Surface Area": 0.667,
+     "lbs per ft": 13.419,
+     "Type": "Flats",
+     "Description": "1 3/4X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X2 3/4",
+     "Surface Area": 0.75,
+     "lbs per ft": 16.401,
+     "Type": "Flats",
+     "Description": "1 3/4X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X3",
+     "Surface Area": 0.792,
+     "lbs per ft": 17.892,
+     "Type": "Flats",
+     "Description": "1 3/4X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X3 1/2",
+     "Surface Area": 0.875,
+     "lbs per ft": 20.874,
+     "Type": "Flats",
+     "Description": "1 3/4X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X4",
+     "Surface Area": 0.958,
+     "lbs per ft": 23.856,
+     "Type": "Flats",
+     "Description": "1 3/4X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X4 1/2",
+     "Surface Area": 1.042,
+     "lbs per ft": 26.838,
+     "Type": "Flats",
+     "Description": "1 3/4X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X5",
+     "Surface Area": 1.125,
+     "lbs per ft": 29.82,
+     "Type": "Flats",
+     "Description": "1 3/4X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X5 1/2",
+     "Surface Area": 1.208,
+     "lbs per ft": 32.802,
+     "Type": "Flats",
+     "Description": "1 3/4X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X6",
+     "Surface Area": 1.292,
+     "lbs per ft": 35.784,
+     "Type": "Flats",
+     "Description": "1 3/4X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X6 1/2",
+     "Surface Area": 1.375,
+     "lbs per ft": 38.766,
+     "Type": "Flats",
+     "Description": "1 3/4X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X7",
+     "Surface Area": 1.458,
+     "lbs per ft": 41.748,
+     "Type": "Flats",
+     "Description": "1 3/4X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X7 1/2",
+     "Surface Area": 1.542,
+     "lbs per ft": 44.73,
+     "Type": "Flats",
+     "Description": "1 3/4X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X8",
+     "Surface Area": 1.625,
+     "lbs per ft": 47.712,
+     "Type": "Flats",
+     "Description": "1 3/4X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/4X9",
+     "Surface Area": 1.792,
+     "lbs per ft": 53.676,
+     "Type": "Flats",
+     "Description": "1 3/4X9 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X1 1/2",
+     "Surface Area": 0.479,
+     "lbs per ft": 7.029,
+     "Type": "Flats",
+     "Description": "1 3/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X2",
+     "Surface Area": 0.563,
+     "lbs per ft": 9.372,
+     "Type": "Flats",
+     "Description": "1 3/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X2 1/2",
+     "Surface Area": 0.646,
+     "lbs per ft": 11.715,
+     "Type": "Flats",
+     "Description": "1 3/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X3",
+     "Surface Area": 0.729,
+     "lbs per ft": 14.058,
+     "Type": "Flats",
+     "Description": "1 3/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X3 1/2",
+     "Surface Area": 0.813,
+     "lbs per ft": 16.401,
+     "Type": "Flats",
+     "Description": "1 3/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X4",
+     "Surface Area": 0.896,
+     "lbs per ft": 18.744,
+     "Type": "Flats",
+     "Description": "1 3/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X4 1/2",
+     "Surface Area": 0.979,
+     "lbs per ft": 21.087,
+     "Type": "Flats",
+     "Description": "1 3/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X5",
+     "Surface Area": 1.063,
+     "lbs per ft": 23.43,
+     "Type": "Flats",
+     "Description": "1 3/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X5 1/2",
+     "Surface Area": 1.146,
+     "lbs per ft": 25.773,
+     "Type": "Flats",
+     "Description": "1 3/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X6",
+     "Surface Area": 1.229,
+     "lbs per ft": 28.116,
+     "Type": "Flats",
+     "Description": "1 3/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X6 1/2",
+     "Surface Area": 1.313,
+     "lbs per ft": 30.459,
+     "Type": "Flats",
+     "Description": "1 3/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X7",
+     "Surface Area": 1.396,
+     "lbs per ft": 32.802,
+     "Type": "Flats",
+     "Description": "1 3/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X7 1/2",
+     "Surface Area": 1.479,
+     "lbs per ft": 35.145,
+     "Type": "Flats",
+     "Description": "1 3/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 3/8X8",
+     "Surface Area": 1.563,
+     "lbs per ft": 37.488,
+     "Type": "Flats",
+     "Description": "1 3/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X1 1/2",
+     "Surface Area": 0.521,
+     "lbs per ft": 8.307,
+     "Type": "Flats",
+     "Description": "1 5/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X2",
+     "Surface Area": 0.604,
+     "lbs per ft": 11.076,
+     "Type": "Flats",
+     "Description": "1 5/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X2 1/2",
+     "Surface Area": 0.687,
+     "lbs per ft": 13.845,
+     "Type": "Flats",
+     "Description": "1 5/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X3",
+     "Surface Area": 0.771,
+     "lbs per ft": 16.614,
+     "Type": "Flats",
+     "Description": "1 5/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X3 1/2",
+     "Surface Area": 0.854,
+     "lbs per ft": 19.383,
+     "Type": "Flats",
+     "Description": "1 5/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X4",
+     "Surface Area": 0.937,
+     "lbs per ft": 22.152,
+     "Type": "Flats",
+     "Description": "1 5/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X4 1/2",
+     "Surface Area": 1.021,
+     "lbs per ft": 24.921,
+     "Type": "Flats",
+     "Description": "1 5/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X5",
+     "Surface Area": 1.104,
+     "lbs per ft": 27.69,
+     "Type": "Flats",
+     "Description": "1 5/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X5 1/2",
+     "Surface Area": 1.187,
+     "lbs per ft": 30.459,
+     "Type": "Flats",
+     "Description": "1 5/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X6",
+     "Surface Area": 1.271,
+     "lbs per ft": 33.228,
+     "Type": "Flats",
+     "Description": "1 5/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X6 1/2",
+     "Surface Area": 1.354,
+     "lbs per ft": 35.997,
+     "Type": "Flats",
+     "Description": "1 5/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X7",
+     "Surface Area": 1.437,
+     "lbs per ft": 38.766,
+     "Type": "Flats",
+     "Description": "1 5/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X7 1/2",
+     "Surface Area": 1.521,
+     "lbs per ft": 41.535,
+     "Type": "Flats",
+     "Description": "1 5/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 5/8X8",
+     "Surface Area": 1.604,
+     "lbs per ft": 44.304,
+     "Type": "Flats",
+     "Description": "1 5/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X1 1/2",
+     "Surface Area": 0.563,
+     "lbs per ft": 9.585,
+     "Type": "Flats",
+     "Description": "1 7/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X2",
+     "Surface Area": 0.646,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "1 7/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X2 1/2",
+     "Surface Area": 0.729,
+     "lbs per ft": 15.975,
+     "Type": "Flats",
+     "Description": "1 7/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X3",
+     "Surface Area": 0.813,
+     "lbs per ft": 19.17,
+     "Type": "Flats",
+     "Description": "1 7/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X3 1/2",
+     "Surface Area": 0.896,
+     "lbs per ft": 22.365,
+     "Type": "Flats",
+     "Description": "1 7/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X4",
+     "Surface Area": 0.979,
+     "lbs per ft": 25.56,
+     "Type": "Flats",
+     "Description": "1 7/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X4 1/2",
+     "Surface Area": 1.063,
+     "lbs per ft": 28.755,
+     "Type": "Flats",
+     "Description": "1 7/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X5",
+     "Surface Area": 1.146,
+     "lbs per ft": 31.95,
+     "Type": "Flats",
+     "Description": "1 7/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X5 1/2",
+     "Surface Area": 1.229,
+     "lbs per ft": 35.145,
+     "Type": "Flats",
+     "Description": "1 7/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X6",
+     "Surface Area": 1.313,
+     "lbs per ft": 38.34,
+     "Type": "Flats",
+     "Description": "1 7/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X6 1/2",
+     "Surface Area": 1.396,
+     "lbs per ft": 41.535,
+     "Type": "Flats",
+     "Description": "1 7/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X7",
+     "Surface Area": 1.479,
+     "lbs per ft": 44.73,
+     "Type": "Flats",
+     "Description": "1 7/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X7 1/2",
+     "Surface Area": 1.563,
+     "lbs per ft": 47.925,
+     "Type": "Flats",
+     "Description": "1 7/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1 7/8X8",
+     "Surface Area": 1.646,
+     "lbs per ft": 51.12,
+     "Type": "Flats",
+     "Description": "1 7/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X1",
+     "Surface Area": 0.25,
+     "lbs per ft": 1.704,
+     "Type": "Flats",
+     "Description": "1/2X1 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X1 1/2",
+     "Surface Area": 0.333,
+     "lbs per ft": 2.556,
+     "Type": "Flats",
+     "Description": "1/2X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X1 1/4",
+     "Surface Area": 0.292,
+     "lbs per ft": 2.13,
+     "Type": "Flats",
+     "Description": "1/2X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X1 1/8",
+     "Surface Area": 0.271,
+     "lbs per ft": 1.917,
+     "Type": "Flats",
+     "Description": "1/2X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X1 3/4",
+     "Surface Area": 0.375,
+     "lbs per ft": 2.982,
+     "Type": "Flats",
+     "Description": "1/2X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X10",
+     "Surface Area": 1.75,
+     "lbs per ft": 17.04,
+     "Type": "Flats",
+     "Description": "1/2X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X12",
+     "Surface Area": 2.083,
+     "lbs per ft": 20.448,
+     "Type": "Flats",
+     "Description": "1/2X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X2",
+     "Surface Area": 0.417,
+     "lbs per ft": 3.408,
+     "Type": "Flats",
+     "Description": "1/2X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X2 1/2",
+     "Surface Area": 0.5,
+     "lbs per ft": 4.26,
+     "Type": "Flats",
+     "Description": "1/2X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X2 1/4",
+     "Surface Area": 0.458,
+     "lbs per ft": 3.834,
+     "Type": "Flats",
+     "Description": "1/2X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X2 3/4",
+     "Surface Area": 0.542,
+     "lbs per ft": 4.686,
+     "Type": "Flats",
+     "Description": "1/2X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X3",
+     "Surface Area": 0.583,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "1/2X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X3 1/2",
+     "Surface Area": 0.667,
+     "lbs per ft": 5.964,
+     "Type": "Flats",
+     "Description": "1/2X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X3 1/4",
+     "Surface Area": 0.625,
+     "lbs per ft": 5.538,
+     "Type": "Flats",
+     "Description": "1/2X3 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X3 3/4",
+     "Surface Area": 0.708,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "1/2X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X3/4",
+     "Surface Area": 0.208,
+     "lbs per ft": 1.278,
+     "Type": "Flats",
+     "Description": "1/2X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X4",
+     "Surface Area": 0.75,
+     "lbs per ft": 6.816,
+     "Type": "Flats",
+     "Description": "1/2X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X4 1/2",
+     "Surface Area": 0.833,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "1/2X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X5",
+     "Surface Area": 0.917,
+     "lbs per ft": 8.52,
+     "Type": "Flats",
+     "Description": "1/2X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X5 1/2",
+     "Surface Area": 1,
+     "lbs per ft": 9.372,
+     "Type": "Flats",
+     "Description": "1/2X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X5/8",
+     "Surface Area": 0.187,
+     "lbs per ft": 1.065,
+     "Type": "Flats",
+     "Description": "1/2X5/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X6",
+     "Surface Area": 1.083,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "1/2X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X6 1/2",
+     "Surface Area": 1.167,
+     "lbs per ft": 11.076,
+     "Type": "Flats",
+     "Description": "1/2X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X7",
+     "Surface Area": 1.25,
+     "lbs per ft": 11.928,
+     "Type": "Flats",
+     "Description": "1/2X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X7 1/2",
+     "Surface Area": 1.333,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "1/2X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X7/8",
+     "Surface Area": 0.229,
+     "lbs per ft": 1.491,
+     "Type": "Flats",
+     "Description": "1/2X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X8",
+     "Surface Area": 1.417,
+     "lbs per ft": 13.632,
+     "Type": "Flats",
+     "Description": "1/2X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/2X9",
+     "Surface Area": 1.583,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "1/2X9 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1",
+     "Surface Area": 0.208,
+     "lbs per ft": 0.852,
+     "Type": "Flats",
+     "Description": "1/4X1 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1 1/2",
+     "Surface Area": 0.292,
+     "lbs per ft": 1.278,
+     "Type": "Flats",
+     "Description": "1/4X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1 1/4",
+     "Surface Area": 0.25,
+     "lbs per ft": 1.065,
+     "Type": "Flats",
+     "Description": "1/4X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1 1/8",
+     "Surface Area": 0.229,
+     "lbs per ft": 0.959,
+     "Type": "Flats",
+     "Description": "1/4X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1 3/4",
+     "Surface Area": 0.333,
+     "lbs per ft": 1.491,
+     "Type": "Flats",
+     "Description": "1/4X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1 3/8",
+     "Surface Area": 0.271,
+     "lbs per ft": 1.172,
+     "Type": "Flats",
+     "Description": "1/4X1 3/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X1/2",
+     "Surface Area": 0.125,
+     "lbs per ft": 0.426,
+     "Type": "Flats",
+     "Description": "1/4X1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X10",
+     "Surface Area": 1.708,
+     "lbs per ft": 8.52,
+     "Type": "Flats",
+     "Description": "1/4X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X11",
+     "Surface Area": 1.875,
+     "lbs per ft": 9.372,
+     "Type": "Flats",
+     "Description": "1/4X11 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X12",
+     "Surface Area": 2.042,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "1/4X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X2",
+     "Surface Area": 0.375,
+     "lbs per ft": 1.704,
+     "Type": "Flats",
+     "Description": "1/4X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X2 1/2",
+     "Surface Area": 0.458,
+     "lbs per ft": 2.13,
+     "Type": "Flats",
+     "Description": "1/4X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X2 1/4",
+     "Surface Area": 0.417,
+     "lbs per ft": 1.917,
+     "Type": "Flats",
+     "Description": "1/4X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X2 3/4",
+     "Surface Area": 0.5,
+     "lbs per ft": 2.343,
+     "Type": "Flats",
+     "Description": "1/4X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X3",
+     "Surface Area": 0.542,
+     "lbs per ft": 2.556,
+     "Type": "Flats",
+     "Description": "1/4X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X3 1/2",
+     "Surface Area": 0.625,
+     "lbs per ft": 2.982,
+     "Type": "Flats",
+     "Description": "1/4X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X3 1/4",
+     "Surface Area": 0.583,
+     "lbs per ft": 2.769,
+     "Type": "Flats",
+     "Description": "1/4X3 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X3 3/4",
+     "Surface Area": 0.667,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "1/4X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X3/4",
+     "Surface Area": 0.167,
+     "lbs per ft": 0.639,
+     "Type": "Flats",
+     "Description": "1/4X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X4",
+     "Surface Area": 0.708,
+     "lbs per ft": 3.408,
+     "Type": "Flats",
+     "Description": "1/4X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X4 1/2",
+     "Surface Area": 0.792,
+     "lbs per ft": 3.834,
+     "Type": "Flats",
+     "Description": "1/4X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X5",
+     "Surface Area": 0.875,
+     "lbs per ft": 4.26,
+     "Type": "Flats",
+     "Description": "1/4X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X5 1/2",
+     "Surface Area": 0.958,
+     "lbs per ft": 4.686,
+     "Type": "Flats",
+     "Description": "1/4X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X5/8",
+     "Surface Area": 0.146,
+     "lbs per ft": 0.532,
+     "Type": "Flats",
+     "Description": "1/4X5/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X6",
+     "Surface Area": 1.042,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "1/4X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X6 1/2",
+     "Surface Area": 1.125,
+     "lbs per ft": 5.538,
+     "Type": "Flats",
+     "Description": "1/4X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X7",
+     "Surface Area": 1.208,
+     "lbs per ft": 5.964,
+     "Type": "Flats",
+     "Description": "1/4X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X7 1/2",
+     "Surface Area": 1.292,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "1/4X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X7/8",
+     "Surface Area": 0.188,
+     "lbs per ft": 0.745,
+     "Type": "Flats",
+     "Description": "1/4X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X8",
+     "Surface Area": 1.375,
+     "lbs per ft": 6.816,
+     "Type": "Flats",
+     "Description": "1/4X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/4X9",
+     "Surface Area": 1.542,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "1/4X9 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1",
+     "Surface Area": 0.188,
+     "lbs per ft": 0.426,
+     "Type": "Flats",
+     "Description": "1/8X1 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1 1/2",
+     "Surface Area": 0.271,
+     "lbs per ft": 0.639,
+     "Type": "Flats",
+     "Description": "1/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1 1/4",
+     "Surface Area": 0.229,
+     "lbs per ft": 0.532,
+     "Type": "Flats",
+     "Description": "1/8X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1 1/8",
+     "Surface Area": 0.208,
+     "lbs per ft": 0.479,
+     "Type": "Flats",
+     "Description": "1/8X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1 3/4",
+     "Surface Area": 0.313,
+     "lbs per ft": 0.745,
+     "Type": "Flats",
+     "Description": "1/8X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1 3/8",
+     "Surface Area": 0.25,
+     "lbs per ft": 0.586,
+     "Type": "Flats",
+     "Description": "1/8X1 3/8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X1/2",
+     "Surface Area": 0.104,
+     "lbs per ft": 0.213,
+     "Type": "Flats",
+     "Description": "1/8X1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X10",
+     "Surface Area": 1.688,
+     "lbs per ft": 4.26,
+     "Type": "Flats",
+     "Description": "1/8X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X11",
+     "Surface Area": 1.854,
+     "lbs per ft": 4.686,
+     "Type": "Flats",
+     "Description": "1/8X11 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X12",
+     "Surface Area": 2.021,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "1/8X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X2",
+     "Surface Area": 0.354,
+     "lbs per ft": 0.852,
+     "Type": "Flats",
+     "Description": "1/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X2 1/2",
+     "Surface Area": 0.438,
+     "lbs per ft": 1.065,
+     "Type": "Flats",
+     "Description": "1/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X2 1/4",
+     "Surface Area": 0.396,
+     "lbs per ft": 0.959,
+     "Type": "Flats",
+     "Description": "1/8X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X2 3/4",
+     "Surface Area": 0.479,
+     "lbs per ft": 1.172,
+     "Type": "Flats",
+     "Description": "1/8X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X3",
+     "Surface Area": 0.521,
+     "lbs per ft": 1.278,
+     "Type": "Flats",
+     "Description": "1/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X3 1/2",
+     "Surface Area": 0.604,
+     "lbs per ft": 1.491,
+     "Type": "Flats",
+     "Description": "1/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X3 1/4",
+     "Surface Area": 0.563,
+     "lbs per ft": 1.385,
+     "Type": "Flats",
+     "Description": "1/8X3 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X3 3/4",
+     "Surface Area": 0.646,
+     "lbs per ft": 1.597,
+     "Type": "Flats",
+     "Description": "1/8X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X3/4",
+     "Surface Area": 0.146,
+     "lbs per ft": 0.32,
+     "Type": "Flats",
+     "Description": "1/8X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X4",
+     "Surface Area": 0.688,
+     "lbs per ft": 1.704,
+     "Type": "Flats",
+     "Description": "1/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X4 1/2",
+     "Surface Area": 0.771,
+     "lbs per ft": 1.917,
+     "Type": "Flats",
+     "Description": "1/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X5",
+     "Surface Area": 0.854,
+     "lbs per ft": 2.13,
+     "Type": "Flats",
+     "Description": "1/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X5 1/2",
+     "Surface Area": 0.938,
+     "lbs per ft": 2.343,
+     "Type": "Flats",
+     "Description": "1/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X6",
+     "Surface Area": 1.021,
+     "lbs per ft": 2.556,
+     "Type": "Flats",
+     "Description": "1/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X6 1/2",
+     "Surface Area": 1.104,
+     "lbs per ft": 2.769,
+     "Type": "Flats",
+     "Description": "1/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X7",
+     "Surface Area": 1.188,
+     "lbs per ft": 2.982,
+     "Type": "Flats",
+     "Description": "1/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X7 1/2",
+     "Surface Area": 1.271,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "1/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X8",
+     "Surface Area": 1.354,
+     "lbs per ft": 3.408,
+     "Type": "Flats",
+     "Description": "1/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1/8X9",
+     "Surface Area": 1.521,
+     "lbs per ft": 3.834,
+     "Type": "Flats",
+     "Description": "1/8X9 Flat"
+   },
+   {
+     "Standard Name": "FL 1X1 1/2",
+     "Surface Area": 0.417,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "1X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X1 1/4",
+     "Surface Area": 0.375,
+     "lbs per ft": 4.26,
+     "Type": "Flats",
+     "Description": "1X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1X1 3/4",
+     "Surface Area": 0.458,
+     "lbs per ft": 5.964,
+     "Type": "Flats",
+     "Description": "1X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1X10",
+     "Surface Area": 1.833,
+     "lbs per ft": 34.08,
+     "Type": "Flats",
+     "Description": "1X10 Flat"
+   },
+   {
+     "Standard Name": "FL 1X12",
+     "Surface Area": 2.167,
+     "lbs per ft": 40.896,
+     "Type": "Flats",
+     "Description": "1X12 Flat"
+   },
+   {
+     "Standard Name": "FL 1X2",
+     "Surface Area": 0.5,
+     "lbs per ft": 6.816,
+     "Type": "Flats",
+     "Description": "1X2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X2 1/2",
+     "Surface Area": 0.583,
+     "lbs per ft": 8.52,
+     "Type": "Flats",
+     "Description": "1X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X2 1/4",
+     "Surface Area": 0.542,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "1X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1X2 3/4",
+     "Surface Area": 0.625,
+     "lbs per ft": 9.372,
+     "Type": "Flats",
+     "Description": "1X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 1X3",
+     "Surface Area": 0.667,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "1X3 Flat"
+   },
+   {
+     "Standard Name": "FL 1X3 1/2",
+     "Surface Area": 0.75,
+     "lbs per ft": 11.928,
+     "Type": "Flats",
+     "Description": "1X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X4",
+     "Surface Area": 0.833,
+     "lbs per ft": 13.632,
+     "Type": "Flats",
+     "Description": "1X4 Flat"
+   },
+   {
+     "Standard Name": "FL 1X4 1/2",
+     "Surface Area": 0.917,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "1X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X5",
+     "Surface Area": 1,
+     "lbs per ft": 17.04,
+     "Type": "Flats",
+     "Description": "1X5 Flat"
+   },
+   {
+     "Standard Name": "FL 1X5 1/2",
+     "Surface Area": 1.083,
+     "lbs per ft": 18.744,
+     "Type": "Flats",
+     "Description": "1X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X6",
+     "Surface Area": 1.167,
+     "lbs per ft": 20.448,
+     "Type": "Flats",
+     "Description": "1X6 Flat"
+   },
+   {
+     "Standard Name": "FL 1X6 1/2",
+     "Surface Area": 1.25,
+     "lbs per ft": 22.152,
+     "Type": "Flats",
+     "Description": "1X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X7",
+     "Surface Area": 1.333,
+     "lbs per ft": 23.856,
+     "Type": "Flats",
+     "Description": "1X7 Flat"
+   },
+   {
+     "Standard Name": "FL 1X7 1/2",
+     "Surface Area": 1.417,
+     "lbs per ft": 25.56,
+     "Type": "Flats",
+     "Description": "1X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 1X8",
+     "Surface Area": 1.5,
+     "lbs per ft": 27.264,
+     "Type": "Flats",
+     "Description": "1X8 Flat"
+   },
+   {
+     "Standard Name": "FL 1X9",
+     "Surface Area": 1.667,
+     "lbs per ft": 30.672,
+     "Type": "Flats",
+     "Description": "1X9 Flat"
+   },
+   {
+     "Standard Name": "FL 2 1/2X4",
+     "Surface Area": 1.083,
+     "lbs per ft": 34.08,
+     "Type": "Flats",
+     "Description": "2 1/2X4 Flat"
+   },
+   {
+     "Standard Name": "FL 2 1/2X5",
+     "Surface Area": 1.25,
+     "lbs per ft": 42.6,
+     "Type": "Flats",
+     "Description": "2 1/2X5 Flat"
+   },
+   {
+     "Standard Name": "FL 2X1 1/2",
+     "Surface Area": 0.583,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "2X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X10",
+     "Surface Area": 2,
+     "lbs per ft": 68.16,
+     "Type": "Flats",
+     "Description": "2X10 Flat"
+   },
+   {
+     "Standard Name": "FL 2X12",
+     "Surface Area": 2.333,
+     "lbs per ft": 81.792,
+     "Type": "Flats",
+     "Description": "2X12 Flat"
+   },
+   {
+     "Standard Name": "FL 2X2",
+     "Surface Area": 0.667,
+     "lbs per ft": 13.632,
+     "Type": "Flats",
+     "Description": "2X2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X2 1/2",
+     "Surface Area": 0.75,
+     "lbs per ft": 17.04,
+     "Type": "Flats",
+     "Description": "2X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X2 1/4",
+     "Surface Area": 0.708,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "2X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 2X2 3/4",
+     "Surface Area": 0.792,
+     "lbs per ft": 18.744,
+     "Type": "Flats",
+     "Description": "2X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 2X3",
+     "Surface Area": 0.833,
+     "lbs per ft": 20.448,
+     "Type": "Flats",
+     "Description": "2X3 Flat"
+   },
+   {
+     "Standard Name": "FL 2X3 1/2",
+     "Surface Area": 0.917,
+     "lbs per ft": 23.856,
+     "Type": "Flats",
+     "Description": "2X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X4",
+     "Surface Area": 1,
+     "lbs per ft": 27.264,
+     "Type": "Flats",
+     "Description": "2X4 Flat"
+   },
+   {
+     "Standard Name": "FL 2X4 1/2",
+     "Surface Area": 1.083,
+     "lbs per ft": 30.672,
+     "Type": "Flats",
+     "Description": "2X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X5",
+     "Surface Area": 1.167,
+     "lbs per ft": 34.08,
+     "Type": "Flats",
+     "Description": "2X5 Flat"
+   },
+   {
+     "Standard Name": "FL 2X5 1/2",
+     "Surface Area": 1.25,
+     "lbs per ft": 37.488,
+     "Type": "Flats",
+     "Description": "2X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X6",
+     "Surface Area": 1.333,
+     "lbs per ft": 40.896,
+     "Type": "Flats",
+     "Description": "2X6 Flat"
+   },
+   {
+     "Standard Name": "FL 2X6 1/2",
+     "Surface Area": 1.417,
+     "lbs per ft": 44.304,
+     "Type": "Flats",
+     "Description": "2X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X7",
+     "Surface Area": 1.5,
+     "lbs per ft": 47.712,
+     "Type": "Flats",
+     "Description": "2X7 Flat"
+   },
+   {
+     "Standard Name": "FL 2X7 1/2",
+     "Surface Area": 1.583,
+     "lbs per ft": 51.12,
+     "Type": "Flats",
+     "Description": "2X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 2X8",
+     "Surface Area": 1.667,
+     "lbs per ft": 54.528,
+     "Type": "Flats",
+     "Description": "2X8 Flat"
+   },
+   {
+     "Standard Name": "FL 2X9",
+     "Surface Area": 1.833,
+     "lbs per ft": 61.344,
+     "Type": "Flats",
+     "Description": "2X9 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1",
+     "Surface Area": 0.198,
+     "lbs per ft": 0.639,
+     "Type": "Flats",
+     "Description": "3/16X1 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1 1/2",
+     "Surface Area": 0.281,
+     "lbs per ft": 0.959,
+     "Type": "Flats",
+     "Description": "3/16X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1 1/4",
+     "Surface Area": 0.24,
+     "lbs per ft": 0.799,
+     "Type": "Flats",
+     "Description": "3/16X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1 1/8",
+     "Surface Area": 0.219,
+     "lbs per ft": 0.719,
+     "Type": "Flats",
+     "Description": "3/16X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1 3/4",
+     "Surface Area": 0.323,
+     "lbs per ft": 1.118,
+     "Type": "Flats",
+     "Description": "3/16X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1 3/8",
+     "Surface Area": 0.26,
+     "lbs per ft": 0.878,
+     "Type": "Flats",
+     "Description": "3/16X1 3/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X1/2",
+     "Surface Area": 0.115,
+     "lbs per ft": 0.32,
+     "Type": "Flats",
+     "Description": "3/16X1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X10",
+     "Surface Area": 1.698,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "3/16X10 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X11",
+     "Surface Area": 1.865,
+     "lbs per ft": 7.029,
+     "Type": "Flats",
+     "Description": "3/16X11 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X12",
+     "Surface Area": 2.031,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "3/16X12 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X2",
+     "Surface Area": 0.365,
+     "lbs per ft": 1.278,
+     "Type": "Flats",
+     "Description": "3/16X2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X2 1/2",
+     "Surface Area": 0.448,
+     "lbs per ft": 1.597,
+     "Type": "Flats",
+     "Description": "3/16X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X2 1/4",
+     "Surface Area": 0.406,
+     "lbs per ft": 1.438,
+     "Type": "Flats",
+     "Description": "3/16X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X2 3/4",
+     "Surface Area": 0.49,
+     "lbs per ft": 1.757,
+     "Type": "Flats",
+     "Description": "3/16X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X3",
+     "Surface Area": 0.531,
+     "lbs per ft": 1.917,
+     "Type": "Flats",
+     "Description": "3/16X3 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X3 1/2",
+     "Surface Area": 0.615,
+     "lbs per ft": 2.237,
+     "Type": "Flats",
+     "Description": "3/16X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X3 1/4",
+     "Surface Area": 0.573,
+     "lbs per ft": 2.077,
+     "Type": "Flats",
+     "Description": "3/16X3 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X3 3/4",
+     "Surface Area": 0.656,
+     "lbs per ft": 2.396,
+     "Type": "Flats",
+     "Description": "3/16X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X3/4",
+     "Surface Area": 0.156,
+     "lbs per ft": 0.479,
+     "Type": "Flats",
+     "Description": "3/16X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X4",
+     "Surface Area": 0.698,
+     "lbs per ft": 2.556,
+     "Type": "Flats",
+     "Description": "3/16X4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X4 1/2",
+     "Surface Area": 0.781,
+     "lbs per ft": 2.876,
+     "Type": "Flats",
+     "Description": "3/16X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X5",
+     "Surface Area": 0.865,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "3/16X5 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X5 1/2",
+     "Surface Area": 0.948,
+     "lbs per ft": 3.514,
+     "Type": "Flats",
+     "Description": "3/16X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X5/8",
+     "Surface Area": 0.135,
+     "lbs per ft": 0.399,
+     "Type": "Flats",
+     "Description": "3/16X5/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X6",
+     "Surface Area": 1.031,
+     "lbs per ft": 3.834,
+     "Type": "Flats",
+     "Description": "3/16X6 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X6 1/2",
+     "Surface Area": 1.115,
+     "lbs per ft": 4.154,
+     "Type": "Flats",
+     "Description": "3/16X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X7",
+     "Surface Area": 1.198,
+     "lbs per ft": 4.473,
+     "Type": "Flats",
+     "Description": "3/16X7 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X7 1/2",
+     "Surface Area": 1.281,
+     "lbs per ft": 4.793,
+     "Type": "Flats",
+     "Description": "3/16X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X7/8",
+     "Surface Area": 0.177,
+     "lbs per ft": 0.559,
+     "Type": "Flats",
+     "Description": "3/16X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X8",
+     "Surface Area": 1.365,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "3/16X8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/16X9",
+     "Surface Area": 1.531,
+     "lbs per ft": 5.751,
+     "Type": "Flats",
+     "Description": "3/16X9 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X1",
+     "Surface Area": 0.292,
+     "lbs per ft": 2.556,
+     "Type": "Flats",
+     "Description": "3/4X1 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X1 1/2",
+     "Surface Area": 0.375,
+     "lbs per ft": 3.834,
+     "Type": "Flats",
+     "Description": "3/4X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X1 1/4",
+     "Surface Area": 0.333,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "3/4X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X1 3/4",
+     "Surface Area": 0.417,
+     "lbs per ft": 4.473,
+     "Type": "Flats",
+     "Description": "3/4X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X10",
+     "Surface Area": 1.792,
+     "lbs per ft": 25.56,
+     "Type": "Flats",
+     "Description": "3/4X10 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X12",
+     "Surface Area": 2.125,
+     "lbs per ft": 30.672,
+     "Type": "Flats",
+     "Description": "3/4X12 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X2",
+     "Surface Area": 0.458,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "3/4X2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X2 1/2",
+     "Surface Area": 0.542,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "3/4X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X2 1/4",
+     "Surface Area": 0.5,
+     "lbs per ft": 5.751,
+     "Type": "Flats",
+     "Description": "3/4X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X2 3/4",
+     "Surface Area": 0.583,
+     "lbs per ft": 7.029,
+     "Type": "Flats",
+     "Description": "3/4X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X3",
+     "Surface Area": 0.625,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "3/4X3 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X3 1/2",
+     "Surface Area": 0.708,
+     "lbs per ft": 8.946,
+     "Type": "Flats",
+     "Description": "3/4X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X4",
+     "Surface Area": 0.792,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "3/4X4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X4 1/2",
+     "Surface Area": 0.875,
+     "lbs per ft": 11.502,
+     "Type": "Flats",
+     "Description": "3/4X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X5",
+     "Surface Area": 0.958,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "3/4X5 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X5 1/2",
+     "Surface Area": 1.042,
+     "lbs per ft": 14.058,
+     "Type": "Flats",
+     "Description": "3/4X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X6",
+     "Surface Area": 1.125,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "3/4X6 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X6 1/2",
+     "Surface Area": 1.208,
+     "lbs per ft": 16.614,
+     "Type": "Flats",
+     "Description": "3/4X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X7",
+     "Surface Area": 1.292,
+     "lbs per ft": 17.892,
+     "Type": "Flats",
+     "Description": "3/4X7 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X7 1/2",
+     "Surface Area": 1.375,
+     "lbs per ft": 19.17,
+     "Type": "Flats",
+     "Description": "3/4X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X8",
+     "Surface Area": 1.458,
+     "lbs per ft": 20.448,
+     "Type": "Flats",
+     "Description": "3/4X8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/4X9",
+     "Surface Area": 1.625,
+     "lbs per ft": 23.004,
+     "Type": "Flats",
+     "Description": "3/4X9 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X1",
+     "Surface Area": 0.229,
+     "lbs per ft": 1.278,
+     "Type": "Flats",
+     "Description": "3/8X1 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X1 1/2",
+     "Surface Area": 0.312,
+     "lbs per ft": 1.917,
+     "Type": "Flats",
+     "Description": "3/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X1 1/4",
+     "Surface Area": 0.271,
+     "lbs per ft": 1.597,
+     "Type": "Flats",
+     "Description": "3/8X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X1 1/8",
+     "Surface Area": 0.25,
+     "lbs per ft": 1.438,
+     "Type": "Flats",
+     "Description": "3/8X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X1 3/4",
+     "Surface Area": 0.354,
+     "lbs per ft": 2.237,
+     "Type": "Flats",
+     "Description": "3/8X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X1/2",
+     "Surface Area": 0.146,
+     "lbs per ft": 0.639,
+     "Type": "Flats",
+     "Description": "3/8X1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X10",
+     "Surface Area": 1.729,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "3/8X10 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X11",
+     "Surface Area": 1.896,
+     "lbs per ft": 14.058,
+     "Type": "Flats",
+     "Description": "3/8X11 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X12",
+     "Surface Area": 2.062,
+     "lbs per ft": 15.336,
+     "Type": "Flats",
+     "Description": "3/8X12 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X2",
+     "Surface Area": 0.396,
+     "lbs per ft": 2.556,
+     "Type": "Flats",
+     "Description": "3/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X2 1/2",
+     "Surface Area": 0.479,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "3/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X2 1/4",
+     "Surface Area": 0.437,
+     "lbs per ft": 2.876,
+     "Type": "Flats",
+     "Description": "3/8X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X2 3/4",
+     "Surface Area": 0.521,
+     "lbs per ft": 3.514,
+     "Type": "Flats",
+     "Description": "3/8X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X3",
+     "Surface Area": 0.562,
+     "lbs per ft": 3.834,
+     "Type": "Flats",
+     "Description": "3/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X3 1/2",
+     "Surface Area": 0.646,
+     "lbs per ft": 4.473,
+     "Type": "Flats",
+     "Description": "3/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X3 3/4",
+     "Surface Area": 0.687,
+     "lbs per ft": 4.793,
+     "Type": "Flats",
+     "Description": "3/8X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X3/4",
+     "Surface Area": 0.187,
+     "lbs per ft": 0.959,
+     "Type": "Flats",
+     "Description": "3/8X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X4",
+     "Surface Area": 0.729,
+     "lbs per ft": 5.112,
+     "Type": "Flats",
+     "Description": "3/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X4 1/2",
+     "Surface Area": 0.812,
+     "lbs per ft": 5.751,
+     "Type": "Flats",
+     "Description": "3/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X5",
+     "Surface Area": 0.896,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "3/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X5 1/2",
+     "Surface Area": 0.979,
+     "lbs per ft": 7.029,
+     "Type": "Flats",
+     "Description": "3/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X5/8",
+     "Surface Area": 0.167,
+     "lbs per ft": 0.799,
+     "Type": "Flats",
+     "Description": "3/8X5/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X6",
+     "Surface Area": 1.062,
+     "lbs per ft": 7.668,
+     "Type": "Flats",
+     "Description": "3/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X6 1/2",
+     "Surface Area": 1.146,
+     "lbs per ft": 8.307,
+     "Type": "Flats",
+     "Description": "3/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X7",
+     "Surface Area": 1.229,
+     "lbs per ft": 8.946,
+     "Type": "Flats",
+     "Description": "3/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X7 1/2",
+     "Surface Area": 1.312,
+     "lbs per ft": 9.585,
+     "Type": "Flats",
+     "Description": "3/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X7/8",
+     "Surface Area": 0.208,
+     "lbs per ft": 1.118,
+     "Type": "Flats",
+     "Description": "3/8X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X8",
+     "Surface Area": 1.396,
+     "lbs per ft": 10.224,
+     "Type": "Flats",
+     "Description": "3/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 3/8X9",
+     "Surface Area": 1.562,
+     "lbs per ft": 11.502,
+     "Type": "Flats",
+     "Description": "3/8X9 Flat"
+   },
+   {
+     "Standard Name": "FL 3X6",
+     "Surface Area": 1.5,
+     "lbs per ft": 61.344,
+     "Type": "Flats",
+     "Description": "3X6 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1",
+     "Surface Area": 0.219,
+     "lbs per ft": 1.065,
+     "Type": "Flats",
+     "Description": "5/16X1 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1 1/2",
+     "Surface Area": 0.302,
+     "lbs per ft": 1.597,
+     "Type": "Flats",
+     "Description": "5/16X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1 1/4",
+     "Surface Area": 0.26,
+     "lbs per ft": 1.331,
+     "Type": "Flats",
+     "Description": "5/16X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1 1/8",
+     "Surface Area": 0.24,
+     "lbs per ft": 1.198,
+     "Type": "Flats",
+     "Description": "5/16X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1 3/4",
+     "Surface Area": 0.344,
+     "lbs per ft": 1.864,
+     "Type": "Flats",
+     "Description": "5/16X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1 3/8",
+     "Surface Area": 0.281,
+     "lbs per ft": 1.464,
+     "Type": "Flats",
+     "Description": "5/16X1 3/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X1/2",
+     "Surface Area": 0.135,
+     "lbs per ft": 0.532,
+     "Type": "Flats",
+     "Description": "5/16X1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X10",
+     "Surface Area": 1.719,
+     "lbs per ft": 10.65,
+     "Type": "Flats",
+     "Description": "5/16X10 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X12",
+     "Surface Area": 2.052,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "5/16X12 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X2",
+     "Surface Area": 0.385,
+     "lbs per ft": 2.13,
+     "Type": "Flats",
+     "Description": "5/16X2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X2 1/2",
+     "Surface Area": 0.469,
+     "lbs per ft": 2.662,
+     "Type": "Flats",
+     "Description": "5/16X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X2 1/4",
+     "Surface Area": 0.427,
+     "lbs per ft": 2.396,
+     "Type": "Flats",
+     "Description": "5/16X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X2 3/4",
+     "Surface Area": 0.51,
+     "lbs per ft": 2.929,
+     "Type": "Flats",
+     "Description": "5/16X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X3",
+     "Surface Area": 0.552,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "5/16X3 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X3 1/2",
+     "Surface Area": 0.635,
+     "lbs per ft": 3.727,
+     "Type": "Flats",
+     "Description": "5/16X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X3 3/4",
+     "Surface Area": 0.677,
+     "lbs per ft": 3.993,
+     "Type": "Flats",
+     "Description": "5/16X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X3/4",
+     "Surface Area": 0.177,
+     "lbs per ft": 0.799,
+     "Type": "Flats",
+     "Description": "5/16X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X4",
+     "Surface Area": 0.719,
+     "lbs per ft": 4.26,
+     "Type": "Flats",
+     "Description": "5/16X4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X4 1/2",
+     "Surface Area": 0.802,
+     "lbs per ft": 4.793,
+     "Type": "Flats",
+     "Description": "5/16X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X5",
+     "Surface Area": 0.885,
+     "lbs per ft": 5.325,
+     "Type": "Flats",
+     "Description": "5/16X5 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X5 1/2",
+     "Surface Area": 0.969,
+     "lbs per ft": 5.858,
+     "Type": "Flats",
+     "Description": "5/16X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X5/8",
+     "Surface Area": 0.156,
+     "lbs per ft": 0.666,
+     "Type": "Flats",
+     "Description": "5/16X5/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X6",
+     "Surface Area": 1.052,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "5/16X6 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X7",
+     "Surface Area": 1.219,
+     "lbs per ft": 7.455,
+     "Type": "Flats",
+     "Description": "5/16X7 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X7/8",
+     "Surface Area": 0.198,
+     "lbs per ft": 0.932,
+     "Type": "Flats",
+     "Description": "5/16X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X8",
+     "Surface Area": 1.385,
+     "lbs per ft": 8.52,
+     "Type": "Flats",
+     "Description": "5/16X8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/16X9",
+     "Surface Area": 1.552,
+     "lbs per ft": 9.585,
+     "Type": "Flats",
+     "Description": "5/16X9 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X1",
+     "Surface Area": 0.271,
+     "lbs per ft": 2.13,
+     "Type": "Flats",
+     "Description": "5/8X1 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X1 1/2",
+     "Surface Area": 0.354,
+     "lbs per ft": 3.195,
+     "Type": "Flats",
+     "Description": "5/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X1 1/4",
+     "Surface Area": 0.313,
+     "lbs per ft": 2.662,
+     "Type": "Flats",
+     "Description": "5/8X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X1 1/8",
+     "Surface Area": 0.292,
+     "lbs per ft": 2.396,
+     "Type": "Flats",
+     "Description": "5/8X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X1 3/4",
+     "Surface Area": 0.396,
+     "lbs per ft": 3.727,
+     "Type": "Flats",
+     "Description": "5/8X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X1 3/8",
+     "Surface Area": 0.333,
+     "lbs per ft": 2.929,
+     "Type": "Flats",
+     "Description": "5/8X1 3/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X10",
+     "Surface Area": 1.771,
+     "lbs per ft": 21.3,
+     "Type": "Flats",
+     "Description": "5/8X10 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X12",
+     "Surface Area": 2.104,
+     "lbs per ft": 25.56,
+     "Type": "Flats",
+     "Description": "5/8X12 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X2",
+     "Surface Area": 0.438,
+     "lbs per ft": 4.26,
+     "Type": "Flats",
+     "Description": "5/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X2 1/2",
+     "Surface Area": 0.521,
+     "lbs per ft": 5.325,
+     "Type": "Flats",
+     "Description": "5/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X2 1/4",
+     "Surface Area": 0.479,
+     "lbs per ft": 4.793,
+     "Type": "Flats",
+     "Description": "5/8X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X2 3/4",
+     "Surface Area": 0.563,
+     "lbs per ft": 5.858,
+     "Type": "Flats",
+     "Description": "5/8X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X3",
+     "Surface Area": 0.604,
+     "lbs per ft": 6.39,
+     "Type": "Flats",
+     "Description": "5/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X3 1/2",
+     "Surface Area": 0.688,
+     "lbs per ft": 7.455,
+     "Type": "Flats",
+     "Description": "5/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X3 1/4",
+     "Surface Area": 0.646,
+     "lbs per ft": 6.923,
+     "Type": "Flats",
+     "Description": "5/8X3 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X3 3/4",
+     "Surface Area": 0.729,
+     "lbs per ft": 7.988,
+     "Type": "Flats",
+     "Description": "5/8X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X3/4",
+     "Surface Area": 0.229,
+     "lbs per ft": 1.597,
+     "Type": "Flats",
+     "Description": "5/8X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X4",
+     "Surface Area": 0.771,
+     "lbs per ft": 8.52,
+     "Type": "Flats",
+     "Description": "5/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X4 1/2",
+     "Surface Area": 0.854,
+     "lbs per ft": 9.585,
+     "Type": "Flats",
+     "Description": "5/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X5",
+     "Surface Area": 0.938,
+     "lbs per ft": 10.65,
+     "Type": "Flats",
+     "Description": "5/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X5 1/2",
+     "Surface Area": 1.021,
+     "lbs per ft": 11.715,
+     "Type": "Flats",
+     "Description": "5/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X6",
+     "Surface Area": 1.104,
+     "lbs per ft": 12.78,
+     "Type": "Flats",
+     "Description": "5/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X6 1/2",
+     "Surface Area": 1.188,
+     "lbs per ft": 13.845,
+     "Type": "Flats",
+     "Description": "5/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X7",
+     "Surface Area": 1.271,
+     "lbs per ft": 14.91,
+     "Type": "Flats",
+     "Description": "5/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X7 1/2",
+     "Surface Area": 1.354,
+     "lbs per ft": 15.975,
+     "Type": "Flats",
+     "Description": "5/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X7/8",
+     "Surface Area": 0.25,
+     "lbs per ft": 1.864,
+     "Type": "Flats",
+     "Description": "5/8X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X8",
+     "Surface Area": 1.438,
+     "lbs per ft": 17.04,
+     "Type": "Flats",
+     "Description": "5/8X8 Flat"
+   },
+   {
+     "Standard Name": "FL 5/8X9",
+     "Surface Area": 1.604,
+     "lbs per ft": 19.17,
+     "Type": "Flats",
+     "Description": "5/8X9 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X1",
+     "Surface Area": 0.24,
+     "lbs per ft": 1.491,
+     "Type": "Flats",
+     "Description": "7/16X1 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X1 1/2",
+     "Surface Area": 0.323,
+     "lbs per ft": 2.237,
+     "Type": "Flats",
+     "Description": "7/16X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X1 1/4",
+     "Surface Area": 0.281,
+     "lbs per ft": 1.864,
+     "Type": "Flats",
+     "Description": "7/16X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X1 1/8",
+     "Surface Area": 0.26,
+     "lbs per ft": 1.677,
+     "Type": "Flats",
+     "Description": "7/16X1 1/8 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X1 3/4",
+     "Surface Area": 0.365,
+     "lbs per ft": 2.61,
+     "Type": "Flats",
+     "Description": "7/16X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X2",
+     "Surface Area": 0.406,
+     "lbs per ft": 2.982,
+     "Type": "Flats",
+     "Description": "7/16X2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X2 1/2",
+     "Surface Area": 0.49,
+     "lbs per ft": 3.727,
+     "Type": "Flats",
+     "Description": "7/16X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X2 1/4",
+     "Surface Area": 0.447,
+     "lbs per ft": 3.355,
+     "Type": "Flats",
+     "Description": "7/16X2 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X2 3/4",
+     "Surface Area": 0.531,
+     "lbs per ft": 4.1,
+     "Type": "Flats",
+     "Description": "7/16X2 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X3",
+     "Surface Area": 0.573,
+     "lbs per ft": 4.473,
+     "Type": "Flats",
+     "Description": "7/16X3 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X3 1/2",
+     "Surface Area": 0.656,
+     "lbs per ft": 5.218,
+     "Type": "Flats",
+     "Description": "7/16X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X3 1/4",
+     "Surface Area": 0.615,
+     "lbs per ft": 4.846,
+     "Type": "Flats",
+     "Description": "7/16X3 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X3 3/4",
+     "Surface Area": 0.698,
+     "lbs per ft": 5.591,
+     "Type": "Flats",
+     "Description": "7/16X3 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X3/4",
+     "Surface Area": 0.198,
+     "lbs per ft": 1.118,
+     "Type": "Flats",
+     "Description": "7/16X3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X4",
+     "Surface Area": 0.74,
+     "lbs per ft": 5.964,
+     "Type": "Flats",
+     "Description": "7/16X4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X4 1/2",
+     "Surface Area": 0.823,
+     "lbs per ft": 6.71,
+     "Type": "Flats",
+     "Description": "7/16X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X5",
+     "Surface Area": 0.906,
+     "lbs per ft": 7.455,
+     "Type": "Flats",
+     "Description": "7/16X5 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X5 1/2",
+     "Surface Area": 0.99,
+     "lbs per ft": 8.2,
+     "Type": "Flats",
+     "Description": "7/16X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X5/8",
+     "Surface Area": 0.177,
+     "lbs per ft": 0.932,
+     "Type": "Flats",
+     "Description": "7/16X5/8 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X6",
+     "Surface Area": 1.073,
+     "lbs per ft": 8.946,
+     "Type": "Flats",
+     "Description": "7/16X6 Flat"
+   },
+   {
+     "Standard Name": "FL 7/16X7/8",
+     "Surface Area": 0.219,
+     "lbs per ft": 1.305,
+     "Type": "Flats",
+     "Description": "7/16X7/8 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X1",
+     "Surface Area": 0.313,
+     "lbs per ft": 2.982,
+     "Type": "Flats",
+     "Description": "7/8X1 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X1 1/2",
+     "Surface Area": 0.396,
+     "lbs per ft": 4.473,
+     "Type": "Flats",
+     "Description": "7/8X1 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X1 1/4",
+     "Surface Area": 0.354,
+     "lbs per ft": 3.727,
+     "Type": "Flats",
+     "Description": "7/8X1 1/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X1 3/4",
+     "Surface Area": 0.438,
+     "lbs per ft": 5.218,
+     "Type": "Flats",
+     "Description": "7/8X1 3/4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X2",
+     "Surface Area": 0.479,
+     "lbs per ft": 5.964,
+     "Type": "Flats",
+     "Description": "7/8X2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X2 1/2",
+     "Surface Area": 0.563,
+     "lbs per ft": 7.455,
+     "Type": "Flats",
+     "Description": "7/8X2 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X3",
+     "Surface Area": 0.646,
+     "lbs per ft": 8.946,
+     "Type": "Flats",
+     "Description": "7/8X3 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X3 1/2",
+     "Surface Area": 0.729,
+     "lbs per ft": 10.437,
+     "Type": "Flats",
+     "Description": "7/8X3 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X4",
+     "Surface Area": 0.813,
+     "lbs per ft": 11.928,
+     "Type": "Flats",
+     "Description": "7/8X4 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X4 1/2",
+     "Surface Area": 0.896,
+     "lbs per ft": 13.419,
+     "Type": "Flats",
+     "Description": "7/8X4 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X5",
+     "Surface Area": 0.979,
+     "lbs per ft": 14.91,
+     "Type": "Flats",
+     "Description": "7/8X5 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X5 1/2",
+     "Surface Area": 1.063,
+     "lbs per ft": 16.401,
+     "Type": "Flats",
+     "Description": "7/8X5 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X6",
+     "Surface Area": 1.146,
+     "lbs per ft": 17.892,
+     "Type": "Flats",
+     "Description": "7/8X6 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X6 1/2",
+     "Surface Area": 1.229,
+     "lbs per ft": 19.383,
+     "Type": "Flats",
+     "Description": "7/8X6 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X7",
+     "Surface Area": 1.313,
+     "lbs per ft": 20.874,
+     "Type": "Flats",
+     "Description": "7/8X7 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X7 1/2",
+     "Surface Area": 1.396,
+     "lbs per ft": 22.365,
+     "Type": "Flats",
+     "Description": "7/8X7 1/2 Flat"
+   },
+   {
+     "Standard Name": "FL 7/8X8",
+     "Surface Area": 1.479,
+     "lbs per ft": 23.856,
+     "Type": "Flats",
+     "Description": "7/8X8 Flat"
+   }
+ ]

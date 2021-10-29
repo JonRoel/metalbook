@@ -1,0 +1,1346 @@
+[
+   {
+     "Standard Name": "RV 1",
+     "Surface Area": 0.33,
+     "lb per ft": 3.396,
+     "Type": "Square Bar",
+     "Description": "1 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 1/16",
+     "Surface Area": 0.35,
+     "lb per ft": 3.834,
+     "Type": "Square Bar",
+     "Description": "1 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 1/2",
+     "Surface Area": 0.5,
+     "lb per ft": 7.641,
+     "Type": "Square Bar",
+     "Description": "1 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 1/4",
+     "Surface Area": 0.42,
+     "lb per ft": 5.306,
+     "Type": "Square Bar",
+     "Description": "1 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 1/8",
+     "Surface Area": 0.38,
+     "lb per ft": 4.298,
+     "Type": "Square Bar",
+     "Description": "1 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 11/16",
+     "Surface Area": 0.56,
+     "lb per ft": 9.671,
+     "Type": "Square Bar",
+     "Description": "1 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 13/16",
+     "Surface Area": 0.6,
+     "lb per ft": 11.156,
+     "Type": "Square Bar",
+     "Description": "1 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 15/16",
+     "Surface Area": 0.65,
+     "lb per ft": 12.748,
+     "Type": "Square Bar",
+     "Description": "1 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 3/16",
+     "Surface Area": 0.4,
+     "lb per ft": 4.789,
+     "Type": "Square Bar",
+     "Description": "1 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 3/4",
+     "Surface Area": 0.58,
+     "lb per ft": 10.4,
+     "Type": "Square Bar",
+     "Description": "1 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 3/8",
+     "Surface Area": 0.46,
+     "lb per ft": 6.421,
+     "Type": "Square Bar",
+     "Description": "1 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 5/16",
+     "Surface Area": 0.44,
+     "lb per ft": 5.85,
+     "Type": "Square Bar",
+     "Description": "1 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 5/8",
+     "Surface Area": 0.54,
+     "lb per ft": 8.968,
+     "Type": "Square Bar",
+     "Description": "1 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 7/16",
+     "Surface Area": 0.48,
+     "lb per ft": 7.018,
+     "Type": "Square Bar",
+     "Description": "1 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 7/8",
+     "Surface Area": 0.63,
+     "lb per ft": 11.939,
+     "Type": "Square Bar",
+     "Description": "1 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1 9/16",
+     "Surface Area": 0.52,
+     "lb per ft": 8.291,
+     "Type": "Square Bar",
+     "Description": "1 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1/16",
+     "Surface Area": 0.02,
+     "lb per ft": 0.013,
+     "Type": "Square Bar",
+     "Description": "1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1/2",
+     "Surface Area": 0.17,
+     "lb per ft": 0.849,
+     "Type": "Square Bar",
+     "Description": "1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1/4",
+     "Surface Area": 0.08,
+     "lb per ft": 0.212,
+     "Type": "Square Bar",
+     "Description": "1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 1/8",
+     "Surface Area": 0.04,
+     "lb per ft": 0.053,
+     "Type": "Square Bar",
+     "Description": "1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10",
+     "Surface Area": 3.33,
+     "lb per ft": 339.6,
+     "Type": "Square Bar",
+     "Description": "10 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 1/16",
+     "Surface Area": 3.35,
+     "lb per ft": 343.858,
+     "Type": "Square Bar",
+     "Description": "10 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 1/2",
+     "Surface Area": 3.5,
+     "lb per ft": 374.409,
+     "Type": "Square Bar",
+     "Description": "10 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 1/4",
+     "Surface Area": 3.42,
+     "lb per ft": 356.792,
+     "Type": "Square Bar",
+     "Description": "10 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 1/8",
+     "Surface Area": 3.38,
+     "lb per ft": 348.143,
+     "Type": "Square Bar",
+     "Description": "10 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 11/16",
+     "Surface Area": 3.56,
+     "lb per ft": 387.9,
+     "Type": "Square Bar",
+     "Description": "10 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 13/16",
+     "Surface Area": 3.6,
+     "lb per ft": 397.027,
+     "Type": "Square Bar",
+     "Description": "10 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 15/16",
+     "Surface Area": 0.37,
+     "lb per ft": 406.26,
+     "Type": "Square Bar",
+     "Description": "10 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 3/16",
+     "Surface Area": 3.4,
+     "lb per ft": 352.454,
+     "Type": "Square Bar",
+     "Description": "10 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 3/4",
+     "Surface Area": 3.58,
+     "lb per ft": 392.45,
+     "Type": "Square Bar",
+     "Description": "10 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 3/8",
+     "Surface Area": 3.46,
+     "lb per ft": 365.548,
+     "Type": "Square Bar",
+     "Description": "10 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 5/16",
+     "Surface Area": 3.44,
+     "lb per ft": 361.157,
+     "Type": "Square Bar",
+     "Description": "10 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 5/8",
+     "Surface Area": 3.54,
+     "lb per ft": 383.377,
+     "Type": "Square Bar",
+     "Description": "10 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 7/16",
+     "Surface Area": 3.48,
+     "lb per ft": 369.965,
+     "Type": "Square Bar",
+     "Description": "10 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 7/8",
+     "Surface Area": 3.63,
+     "lb per ft": 401.63,
+     "Type": "Square Bar",
+     "Description": "10 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 10 9/16",
+     "Surface Area": 3.52,
+     "lb per ft": 378.88,
+     "Type": "Square Bar",
+     "Description": "10 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11",
+     "Surface Area": 3.67,
+     "lb per ft": 410.916,
+     "Type": "Square Bar",
+     "Description": "11 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 1/16",
+     "Surface Area": 3.69,
+     "lb per ft": 415.599,
+     "Type": "Square Bar",
+     "Description": "11 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 1/2",
+     "Surface Area": 3.83,
+     "lb per ft": 449.121,
+     "Type": "Square Bar",
+     "Description": "11 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 1/4",
+     "Surface Area": 3.75,
+     "lb per ft": 429.806,
+     "Type": "Square Bar",
+     "Description": "11 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 1/8",
+     "Surface Area": 3.71,
+     "lb per ft": 420.308,
+     "Type": "Square Bar",
+     "Description": "11 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 11/16",
+     "Surface Area": 3.9,
+     "lb per ft": 463.886,
+     "Type": "Square Bar",
+     "Description": "11 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 13/16",
+     "Surface Area": 3.94,
+     "lb per ft": 473.861,
+     "Type": "Square Bar",
+     "Description": "11 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 15/16",
+     "Surface Area": 3.98,
+     "lb per ft": 483.943,
+     "Type": "Square Bar",
+     "Description": "11 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 3/16",
+     "Surface Area": 3.73,
+     "lb per ft": 425.044,
+     "Type": "Square Bar",
+     "Description": "11 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 3/4",
+     "Surface Area": 3.92,
+     "lb per ft": 468.86,
+     "Type": "Square Bar",
+     "Description": "11 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 3/8",
+     "Surface Area": 3.79,
+     "lb per ft": 439.411,
+     "Type": "Square Bar",
+     "Description": "11 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 5/16",
+     "Surface Area": 3.77,
+     "lb per ft": 434.595,
+     "Type": "Square Bar",
+     "Description": "11 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 5/8",
+     "Surface Area": 3.88,
+     "lb per ft": 458.938,
+     "Type": "Square Bar",
+     "Description": "11 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 7/16",
+     "Surface Area": 3.81,
+     "lb per ft": 444.253,
+     "Type": "Square Bar",
+     "Description": "11 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 7/8",
+     "Surface Area": 3.96,
+     "lb per ft": 478.889,
+     "Type": "Square Bar",
+     "Description": "11 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11 9/16",
+     "Surface Area": 3.85,
+     "lb per ft": 454.016,
+     "Type": "Square Bar",
+     "Description": "11 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 11/16",
+     "Surface Area": 0.23,
+     "lb per ft": 1.605,
+     "Type": "Square Bar",
+     "Description": "11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 12",
+     "Surface Area": 4,
+     "lb per ft": 489.024,
+     "Type": "Square Bar",
+     "Description": "12 Square Bar"
+   },
+   {
+     "Standard Name": "RV 13/16",
+     "Surface Area": 0.27,
+     "lb per ft": 2.242,
+     "Type": "Square Bar",
+     "Description": "13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 15/16",
+     "Surface Area": 0.31,
+     "lb per ft": 2.985,
+     "Type": "Square Bar",
+     "Description": "15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2",
+     "Surface Area": 0.67,
+     "lb per ft": 13.584,
+     "Type": "Square Bar",
+     "Description": "2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 1/16",
+     "Surface Area": 0.69,
+     "lb per ft": 14.446,
+     "Type": "Square Bar",
+     "Description": "2 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 1/2",
+     "Surface Area": 0.83,
+     "lb per ft": 21.225,
+     "Type": "Square Bar",
+     "Description": "2 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 1/4",
+     "Surface Area": 0.75,
+     "lb per ft": 17.192,
+     "Type": "Square Bar",
+     "Description": "2 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 1/8",
+     "Surface Area": 0.71,
+     "lb per ft": 15.335,
+     "Type": "Square Bar",
+     "Description": "2 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 11/16",
+     "Surface Area": 0.9,
+     "lb per ft": 24.528,
+     "Type": "Square Bar",
+     "Description": "2 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 13/16",
+     "Surface Area": 0.94,
+     "lb per ft": 26.863,
+     "Type": "Square Bar",
+     "Description": "2 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 15/16",
+     "Surface Area": 0.98,
+     "lb per ft": 29.304,
+     "Type": "Square Bar",
+     "Description": "2 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 3/16",
+     "Surface Area": 0.73,
+     "lb per ft": 16.25,
+     "Type": "Square Bar",
+     "Description": "2 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 3/4",
+     "Surface Area": 0.92,
+     "lb per ft": 25.682,
+     "Type": "Square Bar",
+     "Description": "2 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 3/8",
+     "Surface Area": 0.79,
+     "lb per ft": 19.156,
+     "Type": "Square Bar",
+     "Description": "2 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 5/16",
+     "Surface Area": 0.77,
+     "lb per ft": 18.161,
+     "Type": "Square Bar",
+     "Description": "2 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 5/8",
+     "Surface Area": 0.88,
+     "lb per ft": 23.401,
+     "Type": "Square Bar",
+     "Description": "2 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 7/16",
+     "Surface Area": 0.81,
+     "lb per ft": 20.177,
+     "Type": "Square Bar",
+     "Description": "2 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 7/8",
+     "Surface Area": 0.96,
+     "lb per ft": 28.07,
+     "Type": "Square Bar",
+     "Description": "2 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 2 9/16",
+     "Surface Area": 0.85,
+     "lb per ft": 22.3,
+     "Type": "Square Bar",
+     "Description": "2 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3",
+     "Surface Area": 1,
+     "lb per ft": 30.564,
+     "Type": "Square Bar",
+     "Description": "3 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 1/16",
+     "Surface Area": 1.02,
+     "lb per ft": 31.851,
+     "Type": "Square Bar",
+     "Description": "3 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 1/2",
+     "Surface Area": 1.17,
+     "lb per ft": 41.601,
+     "Type": "Square Bar",
+     "Description": "3 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 1/4",
+     "Surface Area": 1.08,
+     "lb per ft": 35.87,
+     "Type": "Square Bar",
+     "Description": "3 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 1/8",
+     "Surface Area": 1.04,
+     "lb per ft": 33.164,
+     "Type": "Square Bar",
+     "Description": "3 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 11/16",
+     "Surface Area": 1.23,
+     "lb per ft": 46.178,
+     "Type": "Square Bar",
+     "Description": "3 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 13/16",
+     "Surface Area": 1.27,
+     "lb per ft": 49.361,
+     "Type": "Square Bar",
+     "Description": "3 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 15/16",
+     "Surface Area": 1.31,
+     "lb per ft": 52.651,
+     "Type": "Square Bar",
+     "Description": "3 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 3/16",
+     "Surface Area": 1.06,
+     "lb per ft": 34.504,
+     "Type": "Square Bar",
+     "Description": "3 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 3/4",
+     "Surface Area": 1.25,
+     "lb per ft": 47.756,
+     "Type": "Square Bar",
+     "Description": "3 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 3/8",
+     "Surface Area": 1.13,
+     "lb per ft": 38.683,
+     "Type": "Square Bar",
+     "Description": "3 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 5/16",
+     "Surface Area": 1.1,
+     "lb per ft": 37.263,
+     "Type": "Square Bar",
+     "Description": "3 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 5/8",
+     "Surface Area": 1.21,
+     "lb per ft": 44.626,
+     "Type": "Square Bar",
+     "Description": "3 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 7/16",
+     "Surface Area": 1.15,
+     "lb per ft": 40.129,
+     "Type": "Square Bar",
+     "Description": "3 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 7/8",
+     "Surface Area": 1.29,
+     "lb per ft": 50.993,
+     "Type": "Square Bar",
+     "Description": "3 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3 9/16",
+     "Surface Area": 1.19,
+     "lb per ft": 43.1,
+     "Type": "Square Bar",
+     "Description": "3 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3/16",
+     "Surface Area": 0.06,
+     "lb per ft": 0.119,
+     "Type": "Square Bar",
+     "Description": "3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3/4",
+     "Surface Area": 0.25,
+     "lb per ft": 1.91,
+     "Type": "Square Bar",
+     "Description": "3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 3/8",
+     "Surface Area": 0.13,
+     "lb per ft": 0.478,
+     "Type": "Square Bar",
+     "Description": "3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4",
+     "Surface Area": 1.33,
+     "lb per ft": 54.336,
+     "Type": "Square Bar",
+     "Description": "4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 1/16",
+     "Surface Area": 1.35,
+     "lb per ft": 56.047,
+     "Type": "Square Bar",
+     "Description": "4 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 1/2",
+     "Surface Area": 1.5,
+     "lb per ft": 68.769,
+     "Type": "Square Bar",
+     "Description": "4 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 1/4",
+     "Surface Area": 1.42,
+     "lb per ft": 61.34,
+     "Type": "Square Bar",
+     "Description": "4 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 1/8",
+     "Surface Area": 1.38,
+     "lb per ft": 57.785,
+     "Type": "Square Bar",
+     "Description": "4 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 11/16",
+     "Surface Area": 1.56,
+     "lb per ft": 74.619,
+     "Type": "Square Bar",
+     "Description": "4 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 13/16",
+     "Surface Area": 1.6,
+     "lb per ft": 78.652,
+     "Type": "Square Bar",
+     "Description": "4 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 15/16",
+     "Surface Area": 1.65,
+     "lb per ft": 82.791,
+     "Type": "Square Bar",
+     "Description": "4 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 3/16",
+     "Surface Area": 1.4,
+     "lb per ft": 59.549,
+     "Type": "Square Bar",
+     "Description": "4 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 3/4",
+     "Surface Area": 1.58,
+     "lb per ft": 76.622,
+     "Type": "Square Bar",
+     "Description": "4 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 3/8",
+     "Surface Area": 1.46,
+     "lb per ft": 65.002,
+     "Type": "Square Bar",
+     "Description": "4 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 5/16",
+     "Surface Area": 1.44,
+     "lb per ft": 63.158,
+     "Type": "Square Bar",
+     "Description": "4 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 5/8",
+     "Surface Area": 1.54,
+     "lb per ft": 72.643,
+     "Type": "Square Bar",
+     "Description": "4 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 7/16",
+     "Surface Area": 1.48,
+     "lb per ft": 66.872,
+     "Type": "Square Bar",
+     "Description": "4 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 7/8",
+     "Surface Area": 1.63,
+     "lb per ft": 80.708,
+     "Type": "Square Bar",
+     "Description": "4 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 4 9/16",
+     "Surface Area": 1.52,
+     "lb per ft": 70.693,
+     "Type": "Square Bar",
+     "Description": "4 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5",
+     "Surface Area": 1.67,
+     "lb per ft": 84.9,
+     "Type": "Square Bar",
+     "Description": "5 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 1/16",
+     "Surface Area": 1.69,
+     "lb per ft": 87.036,
+     "Type": "Square Bar",
+     "Description": "5 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 1/2",
+     "Surface Area": 1.83,
+     "lb per ft": 102.729,
+     "Type": "Square Bar",
+     "Description": "5 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 1/4",
+     "Surface Area": 1.75,
+     "lb per ft": 93.602,
+     "Type": "Square Bar",
+     "Description": "5 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 1/8",
+     "Surface Area": 1.71,
+     "lb per ft": 89.198,
+     "Type": "Square Bar",
+     "Description": "5 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 11/16",
+     "Surface Area": 1.9,
+     "lb per ft": 109.853,
+     "Type": "Square Bar",
+     "Description": "5 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 13/16",
+     "Surface Area": 1.94,
+     "lb per ft": 114.734,
+     "Type": "Square Bar",
+     "Description": "5 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 15/16",
+     "Surface Area": 1.98,
+     "lb per ft": 119.722,
+     "Type": "Square Bar",
+     "Description": "5 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 3/16",
+     "Surface Area": 1.73,
+     "lb per ft": 91.387,
+     "Type": "Square Bar",
+     "Description": "5 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 3/4",
+     "Surface Area": 1.92,
+     "lb per ft": 112.28,
+     "Type": "Square Bar",
+     "Description": "5 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 3/8",
+     "Surface Area": 1.79,
+     "lb per ft": 98.113,
+     "Type": "Square Bar",
+     "Description": "5 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 5/16",
+     "Surface Area": 1.77,
+     "lb per ft": 95.844,
+     "Type": "Square Bar",
+     "Description": "5 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 5/8",
+     "Surface Area": 1.88,
+     "lb per ft": 107.452,
+     "Type": "Square Bar",
+     "Description": "5 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 7/16",
+     "Surface Area": 1.81,
+     "lb per ft": 100.408,
+     "Type": "Square Bar",
+     "Description": "5 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 7/8",
+     "Surface Area": 1.96,
+     "lb per ft": 117.215,
+     "Type": "Square Bar",
+     "Description": "5 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5 9/16",
+     "Surface Area": 1.85,
+     "lb per ft": 105.077,
+     "Type": "Square Bar",
+     "Description": "5 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5/16",
+     "Surface Area": 0.1,
+     "lb per ft": 0.332,
+     "Type": "Square Bar",
+     "Description": "5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 5/8",
+     "Surface Area": 0.21,
+     "lb per ft": 1.327,
+     "Type": "Square Bar",
+     "Description": "5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6",
+     "Surface Area": 2,
+     "lb per ft": 122.256,
+     "Type": "Square Bar",
+     "Description": "6 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 1/16",
+     "Surface Area": 2.02,
+     "lb per ft": 124.816,
+     "Type": "Square Bar",
+     "Description": "6 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 1/2",
+     "Surface Area": 2.17,
+     "lb per ft": 143.481,
+     "Type": "Square Bar",
+     "Description": "6 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 1/4",
+     "Surface Area": 2.08,
+     "lb per ft": 132.656,
+     "Type": "Square Bar",
+     "Description": "6 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 1/8",
+     "Surface Area": 2.04,
+     "lb per ft": 127.403,
+     "Type": "Square Bar",
+     "Description": "6 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 11/16",
+     "Surface Area": 2.23,
+     "lb per ft": 151.878,
+     "Type": "Square Bar",
+     "Description": "6 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 13/16",
+     "Surface Area": 2.27,
+     "lb per ft": 157.609,
+     "Type": "Square Bar",
+     "Description": "6 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 15/16",
+     "Surface Area": 2.31,
+     "lb per ft": 163.446,
+     "Type": "Square Bar",
+     "Description": "6 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 3/16",
+     "Surface Area": 2.06,
+     "lb per ft": 130.016,
+     "Type": "Square Bar",
+     "Description": "6 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 3/4",
+     "Surface Area": 2.25,
+     "lb per ft": 154.73,
+     "Type": "Square Bar",
+     "Description": "6 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 3/8",
+     "Surface Area": 2.13,
+     "lb per ft": 138.016,
+     "Type": "Square Bar",
+     "Description": "6 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 5/16",
+     "Surface Area": 2.1,
+     "lb per ft": 135.323,
+     "Type": "Square Bar",
+     "Description": "6 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 5/8",
+     "Surface Area": 2.21,
+     "lb per ft": 149.053,
+     "Type": "Square Bar",
+     "Description": "6 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 7/16",
+     "Surface Area": 2.15,
+     "lb per ft": 140.735,
+     "Type": "Square Bar",
+     "Description": "6 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 7/8",
+     "Surface Area": 2.29,
+     "lb per ft": 160.514,
+     "Type": "Square Bar",
+     "Description": "6 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 6 9/16",
+     "Surface Area": 2.19,
+     "lb per ft": 146.254,
+     "Type": "Square Bar",
+     "Description": "6 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7",
+     "Surface Area": 2.33,
+     "lb per ft": 166.404,
+     "Type": "Square Bar",
+     "Description": "7 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 1/16",
+     "Surface Area": 2.35,
+     "lb per ft": 169.389,
+     "Type": "Square Bar",
+     "Description": "7 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 1/2",
+     "Surface Area": 2.5,
+     "lb per ft": 191.025,
+     "Type": "Square Bar",
+     "Description": "7 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 1/4",
+     "Surface Area": 2.42,
+     "lb per ft": 178.502,
+     "Type": "Square Bar",
+     "Description": "7 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 1/8",
+     "Surface Area": 2.38,
+     "lb per ft": 172.4,
+     "Type": "Square Bar",
+     "Description": "7 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 11/16",
+     "Surface Area": 2.56,
+     "lb per ft": 200.696,
+     "Type": "Square Bar",
+     "Description": "7 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 13/16",
+     "Surface Area": 2.6,
+     "lb per ft": 207.275,
+     "Type": "Square Bar",
+     "Description": "7 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 15/16",
+     "Surface Area": 2.65,
+     "lb per ft": 213.961,
+     "Type": "Square Bar",
+     "Description": "7 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 3/16",
+     "Surface Area": 2.4,
+     "lb per ft": 175.438,
+     "Type": "Square Bar",
+     "Description": "7 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 3/4",
+     "Surface Area": 2.58,
+     "lb per ft": 203.972,
+     "Type": "Square Bar",
+     "Description": "7 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 3/8",
+     "Surface Area": 2.46,
+     "lb per ft": 184.711,
+     "Type": "Square Bar",
+     "Description": "7 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 5/16",
+     "Surface Area": 2.44,
+     "lb per ft": 181.593,
+     "Type": "Square Bar",
+     "Description": "7 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 5/8",
+     "Surface Area": 2.54,
+     "lb per ft": 197.446,
+     "Type": "Square Bar",
+     "Description": "7 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 7/16",
+     "Surface Area": 2.48,
+     "lb per ft": 187.855,
+     "Type": "Square Bar",
+     "Description": "7 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 7/8",
+     "Surface Area": 2.63,
+     "lb per ft": 210.605,
+     "Type": "Square Bar",
+     "Description": "7 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7 9/16",
+     "Surface Area": 2.52,
+     "lb per ft": 194.222,
+     "Type": "Square Bar",
+     "Description": "7 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7/16",
+     "Surface Area": 0.15,
+     "lb per ft": 0.65,
+     "Type": "Square Bar",
+     "Description": "7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 7/8",
+     "Surface Area": 0.29,
+     "lb per ft": 2.6,
+     "Type": "Square Bar",
+     "Description": "7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8",
+     "Surface Area": 2.67,
+     "lb per ft": 217.344,
+     "Type": "Square Bar",
+     "Description": "8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 1/16",
+     "Surface Area": 2.69,
+     "lb per ft": 220.753,
+     "Type": "Square Bar",
+     "Description": "8 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 1/2",
+     "Surface Area": 2.83,
+     "lb per ft": 245.361,
+     "Type": "Square Bar",
+     "Description": "8 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 1/4",
+     "Surface Area": 2.75,
+     "lb per ft": 231.14,
+     "Type": "Square Bar",
+     "Description": "8 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 1/8",
+     "Surface Area": 2.71,
+     "lb per ft": 224.189,
+     "Type": "Square Bar",
+     "Description": "8 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 11/16",
+     "Surface Area": 2.9,
+     "lb per ft": 256.305,
+     "Type": "Square Bar",
+     "Description": "8 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 13/16",
+     "Surface Area": 2.94,
+     "lb per ft": 263.734,
+     "Type": "Square Bar",
+     "Description": "8 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 15/16",
+     "Surface Area": 2.98,
+     "lb per ft": 271.269,
+     "Type": "Square Bar",
+     "Description": "8 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 3/16",
+     "Surface Area": 2.73,
+     "lb per ft": 227.651,
+     "Type": "Square Bar",
+     "Description": "8 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 3/4",
+     "Surface Area": 2.92,
+     "lb per ft": 260.006,
+     "Type": "Square Bar",
+     "Description": "8 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 3/8",
+     "Surface Area": 2.79,
+     "lb per ft": 238.198,
+     "Type": "Square Bar",
+     "Description": "8 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 5/16",
+     "Surface Area": 2.77,
+     "lb per ft": 234.656,
+     "Type": "Square Bar",
+     "Description": "8 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 5/8",
+     "Surface Area": 2.88,
+     "lb per ft": 252.631,
+     "Type": "Square Bar",
+     "Description": "8 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 7/16",
+     "Surface Area": 2.81,
+     "lb per ft": 241.766,
+     "Type": "Square Bar",
+     "Description": "8 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 7/8",
+     "Surface Area": 2.96,
+     "lb per ft": 267.488,
+     "Type": "Square Bar",
+     "Description": "8 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 8 9/16",
+     "Surface Area": 2.85,
+     "lb per ft": 248.983,
+     "Type": "Square Bar",
+     "Description": "8 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9",
+     "Surface Area": 3,
+     "lb per ft": 275.076,
+     "Type": "Square Bar",
+     "Description": "9 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 1/16",
+     "Surface Area": 3.02,
+     "lb per ft": 278.91,
+     "Type": "Square Bar",
+     "Description": "9 1/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 1/2",
+     "Surface Area": 3.17,
+     "lb per ft": 306.489,
+     "Type": "Square Bar",
+     "Description": "9 1/2 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 1/4",
+     "Surface Area": 3.08,
+     "lb per ft": 290.57,
+     "Type": "Square Bar",
+     "Description": "9 1/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 1/8",
+     "Surface Area": 3.04,
+     "lb per ft": 282.77,
+     "Type": "Square Bar",
+     "Description": "9 1/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 11/16",
+     "Surface Area": 3.23,
+     "lb per ft": 318.707,
+     "Type": "Square Bar",
+     "Description": "9 11/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 13/16",
+     "Surface Area": 3.27,
+     "lb per ft": 326.984,
+     "Type": "Square Bar",
+     "Description": "9 13/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 15/16",
+     "Surface Area": 3.31,
+     "lb per ft": 335.368,
+     "Type": "Square Bar",
+     "Description": "9 15/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 3/16",
+     "Surface Area": 3.06,
+     "lb per ft": 286.657,
+     "Type": "Square Bar",
+     "Description": "9 3/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 3/4",
+     "Surface Area": 3.25,
+     "lb per ft": 322.832,
+     "Type": "Square Bar",
+     "Description": "9 3/4 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 3/8",
+     "Surface Area": 3.13,
+     "lb per ft": 298.477,
+     "Type": "Square Bar",
+     "Description": "9 3/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 5/16",
+     "Surface Area": 3.1,
+     "lb per ft": 294.51,
+     "Type": "Square Bar",
+     "Description": "9 5/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 5/8",
+     "Surface Area": 3.21,
+     "lb per ft": 314.608,
+     "Type": "Square Bar",
+     "Description": "9 5/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 7/16",
+     "Surface Area": 3.15,
+     "lb per ft": 302.47,
+     "Type": "Square Bar",
+     "Description": "9 7/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 7/8",
+     "Surface Area": 3.29,
+     "lb per ft": 331.163,
+     "Type": "Square Bar",
+     "Description": "9 7/8 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9 9/16",
+     "Surface Area": 3.19,
+     "lb per ft": 310.535,
+     "Type": "Square Bar",
+     "Description": "9 9/16 Square Bar"
+   },
+   {
+     "Standard Name": "RV 9/16",
+     "Surface Area": 0.19,
+     "lb per ft": 1.075,
+     "Type": "Square Bar",
+     "Description": "9/16 Square Bar"
+   }
+ ]
