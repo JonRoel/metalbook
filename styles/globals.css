@@ -15,6 +15,17 @@ a {
   box-sizing: border-box;
 }
 
+.steel-type-container {
+  width: 100%;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .table-wrapper {
   width:100%;
   padding:5%;
@@ -22,13 +33,23 @@ a {
 
 .shape-group-1 {
   width:800px;
+  float:left;
 }
 
-.shape-group-2 {
-  width:800px;
+.shape-group-1 button {
+  width:100px;
+  border: 1px solid white;
+  border-radius: 0px;
+  min-height:100px;
 }
 
-.shape-group-1 button, .shape-group-2 button {
+.steel-type-group {
+  float:left;
+  width:102px;
+  margin-left:45px;
+}
+
+.steel-type-group button {
   width:100px;
   border: 1px solid white;
   border-radius: 0px;
@@ -37,4 +58,8 @@ a {
 
 .current {
   background-color:#c77e19 !important;
+}
+
+.currentSteelType {
+  background-color:#1762d3 !important;
 }

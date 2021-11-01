@@ -14,15 +14,15 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/HSS-Round": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/HSS-Round.js"
+      "static/chunks/pages/index.js"
     ],
-    "/HSS-Square": [
+    "/Angle-Equal": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/HSS-Square.js"
+      "static/chunks/pages/Angle-Equal.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
