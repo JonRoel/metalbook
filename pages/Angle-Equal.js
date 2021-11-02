@@ -49,7 +49,7 @@ componentDidMount() {
         (result) => {
             this.setState({
             isLoaded: true,
-            items: result.items
+            items: result
             });
         },
         (error) => {
@@ -65,7 +65,7 @@ componentDidMount() {
 
 render() {
 
-    const { error, isLoaded, items, steelType } = this.state;
+    const { error, isLoaded, steelType } = this.state;
 
     if (!isLoaded) {
     return <div>Loading...</div>;
@@ -89,13 +89,13 @@ render() {
                 </tr>
             </thead>
             <tbody>
-                {this.state.items.map((item) => (
-                    <tr key={item.StandardName}>
-                        <td>{item.StandardName}</td>
-                        <td>{item.SurfaceArea}</td>
-                        <td>{item.LbsPerFt}</td>
-                        <td>{item.Type}</td>
-                        <td>{item.Description}</td>
+                {this.state.items.map((data) => (
+                    <tr key={data.StandardName}>
+                        <td>{data.StandardName}</td>
+                        <td>{data.SurfaceArea}</td>
+                        <td>{data.LbsPerFt}</td>
+                        <td>{data.Type}</td>
+                        <td>{data.Description}</td>
                     </tr>
                 ))}
             </tbody>
