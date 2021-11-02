@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ButtonGroup, Button, Navbar, Container } from 'react-bootstrap';
+import { Button, Navbar, Container } from 'react-bootstrap';
 import Link from 'next/link';
 import { Router, useRouter } from 'next/router';
 
@@ -22,7 +22,7 @@ export default function Header() {
                     />
                     </Navbar.Brand>
                 </Container>
-            </Navbar>
+                </Navbar>
             <div className="steel-type-container">
                 <div className="shape-group-1"> 
                     <Link steelType={steelType} href="/"><Button className={router.pathname == "/" ? "current" : ""} variant="secondary">All</Button></Link>
