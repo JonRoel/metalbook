@@ -1,0 +1,534 @@
+[
+    {
+      "StandardName": "L 2-1/2 X 1-1/2 X 1/4",
+      "SurfaceArea": 0.667,
+      "lbsperft": 3.19,
+      "Type": "Angle Unequal",
+      "Description": "2-1/2 X 1-1/2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 2-1/2 X 1-1/2 X 3/16",
+      "SurfaceArea": 0.667,
+      "lbsperft": 2.44,
+      "Type": "Angle Unequal",
+      "Description": "2-1/2 X 1-1/2 X 3/16 Angle"
+    },
+    {
+      "StandardName": "L 2-1/2 X 2 X 1/4",
+      "SurfaceArea": 0.75,
+      "lbsperft": 3.62,
+      "Type": "Angle Unequal",
+      "Description": "2-1/2 X 2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 2-1/2 X 2 X 3/16",
+      "SurfaceArea": 0.75,
+      "lbsperft": 2.75,
+      "Type": "Angle Unequal",
+      "Description": "2-1/2 X 2 X 3/16 Angle"
+    },
+    {
+      "StandardName": "L 2-1/2 X 2 X 3/8",
+      "SurfaceArea": 0.75,
+      "lbsperft": 5.3,
+      "Type": "Angle Unequal",
+      "Description": "2-1/2 X 2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 2-1/2 X 2 X 5/16",
+      "SurfaceArea": 0.75,
+      "lbsperft": 4.5,
+      "Type": "Angle Unequal",
+      "Description": "2-1/2 X 2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 2-1/2 X 1/2",
+      "SurfaceArea": 1,
+      "lbsperft": 9.4,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 2-1/2 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 2-1/2 X 1/4",
+      "SurfaceArea": 1,
+      "lbsperft": 4.9,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 2-1/2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 2-1/2 X 3/8",
+      "SurfaceArea": 1,
+      "lbsperft": 7.2,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 2-1/2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 2-1/2 X 5/16",
+      "SurfaceArea": 1,
+      "lbsperft": 6.1,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 2-1/2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 3 X 1/2",
+      "SurfaceArea": 1.083,
+      "lbsperft": 10.2,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 3 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 3 X 1/4",
+      "SurfaceArea": 1.083,
+      "lbsperft": 5.4,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 3 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 3 X 3/8",
+      "SurfaceArea": 1.083,
+      "lbsperft": 7.9,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 3 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 3 X 5/16",
+      "SurfaceArea": 1.083,
+      "lbsperft": 6.6,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 3 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 3-1/2 X 3 X 7/16",
+      "SurfaceArea": 1.083,
+      "lbsperft": 9.1,
+      "Type": "Angle Unequal",
+      "Description": "3-1/2 X 3 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2-1/2 X 1/2",
+      "SurfaceArea": 0.917,
+      "lbsperft": 8.5,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2-1/2 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2-1/2 X 1/4",
+      "SurfaceArea": 0.917,
+      "lbsperft": 4.5,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2-1/2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2-1/2 X 3/16",
+      "SurfaceArea": 0.917,
+      "lbsperft": 3.39,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2-1/2 X 3/16 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2-1/2 X 3/8",
+      "SurfaceArea": 0.917,
+      "lbsperft": 6.6,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2-1/2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2-1/2 X 5/16",
+      "SurfaceArea": 0.917,
+      "lbsperft": 5.6,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2-1/2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2-1/2 X 7/16",
+      "SurfaceArea": 0.917,
+      "lbsperft": 7.6,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2-1/2 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2 X 1/2",
+      "SurfaceArea": 0.833,
+      "lbsperft": 7.7,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2 X 1/4",
+      "SurfaceArea": 0.833,
+      "lbsperft": 4.1,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2 X 3/16",
+      "SurfaceArea": 0.833,
+      "lbsperft": 3.07,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2 X 3/16 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2 X 3/8",
+      "SurfaceArea": 0.833,
+      "lbsperft": 5.9,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 3 X 2 X 5/16",
+      "SurfaceArea": 0.833,
+      "lbsperft": 5,
+      "Type": "Angle Unequal",
+      "Description": "3 X 2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3-1/2 X 1/2",
+      "SurfaceArea": 1.25,
+      "lbsperft": 11.9,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3-1/2 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3-1/2 X 1/4",
+      "SurfaceArea": 1.25,
+      "lbsperft": 6.2,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3-1/2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3-1/2 X 3/8",
+      "SurfaceArea": 1.25,
+      "lbsperft": 9.1,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3-1/2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3-1/2 X 5/16",
+      "SurfaceArea": 1.25,
+      "lbsperft": 7.7,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3-1/2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3 X 1/2",
+      "SurfaceArea": 1.167,
+      "lbsperft": 11.1,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3 X 1/4",
+      "SurfaceArea": 1.167,
+      "lbsperft": 5.8,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3 X 3/8",
+      "SurfaceArea": 1.167,
+      "lbsperft": 8.5,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3 X 5/16",
+      "SurfaceArea": 1.167,
+      "lbsperft": 7.2,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 4 X 3 X 5/8",
+      "SurfaceArea": 1.167,
+      "lbsperft": 13.6,
+      "Type": "Angle Unequal",
+      "Description": "4 X 3 X 5/8 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3-1/2 X 1/2",
+      "SurfaceArea": 1.417,
+      "lbsperft": 13.6,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3-1/2 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3-1/2 X 1/4",
+      "SurfaceArea": 1.417,
+      "lbsperft": 7,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3-1/2 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3-1/2 X 3/4",
+      "SurfaceArea": 1.417,
+      "lbsperft": 19.8,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3-1/2 X 3/4 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3-1/2 X 3/8",
+      "SurfaceArea": 1.417,
+      "lbsperft": 10.4,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3-1/2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3-1/2 X 5/16",
+      "SurfaceArea": 1.417,
+      "lbsperft": 8.7,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3-1/2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3-1/2 X 5/8",
+      "SurfaceArea": 1.417,
+      "lbsperft": 16.8,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3-1/2 X 5/8 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3 X 1/2",
+      "SurfaceArea": 1.333,
+      "lbsperft": 12.8,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3 X 1/4",
+      "SurfaceArea": 1.333,
+      "lbsperft": 6.6,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3 X 1/4 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3 X 3/8",
+      "SurfaceArea": 1.333,
+      "lbsperft": 9.8,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3 X 5/16",
+      "SurfaceArea": 1.333,
+      "lbsperft": 8.2,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 5 X 3 X 7/16",
+      "SurfaceArea": 1.333,
+      "lbsperft": 11.3,
+      "Type": "Angle Unequal",
+      "Description": "5 X 3 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 6 X 3-1/2 X 1/2",
+      "SurfaceArea": 1.583,
+      "lbsperft": 15.3,
+      "Type": "Angle Unequal",
+      "Description": "6 X 3-1/2 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 6 X 3-1/2 X 3/8",
+      "SurfaceArea": 1.583,
+      "lbsperft": 11.7,
+      "Type": "Angle Unequal",
+      "Description": "6 X 3-1/2 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 6 X 3-1/2 X 5/16",
+      "SurfaceArea": 1.583,
+      "lbsperft": 9.8,
+      "Type": "Angle Unequal",
+      "Description": "6 X 3-1/2 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 1/2",
+      "SurfaceArea": 1.667,
+      "lbsperft": 16.2,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 3/4",
+      "SurfaceArea": 1.667,
+      "lbsperft": 23.6,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 3/4 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 3/8",
+      "SurfaceArea": 1.667,
+      "lbsperft": 12.3,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 5/16",
+      "SurfaceArea": 1.667,
+      "lbsperft": 10.3,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 5/16 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 5/8",
+      "SurfaceArea": 1.667,
+      "lbsperft": 20,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 5/8 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 7/16",
+      "SurfaceArea": 1.667,
+      "lbsperft": 14.3,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 7/8",
+      "SurfaceArea": 1.667,
+      "lbsperft": 27.2,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 7/8 Angle"
+    },
+    {
+      "StandardName": "L 6 X 4 X 9/16",
+      "SurfaceArea": 1.667,
+      "lbsperft": 18.1,
+      "Type": "Angle Unequal",
+      "Description": "6 X 4 X 9/16 Angle"
+    },
+    {
+      "StandardName": "L 7 X 4 X 1/2",
+      "SurfaceArea": 1.833,
+      "lbsperft": 17.9,
+      "Type": "Angle Unequal",
+      "Description": "7 X 4 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 7 X 4 X 3/4",
+      "SurfaceArea": 1.833,
+      "lbsperft": 26.2,
+      "Type": "Angle Unequal",
+      "Description": "7 X 4 X 3/4 Angle"
+    },
+    {
+      "StandardName": "L 7 X 4 X 3/8",
+      "SurfaceArea": 1.833,
+      "lbsperft": 13.6,
+      "Type": "Angle Unequal",
+      "Description": "7 X 4 X 3/8 Angle"
+    },
+    {
+      "StandardName": "L 7 X 4 X 5/8",
+      "SurfaceArea": 1.833,
+      "lbsperft": 22.1,
+      "Type": "Angle Unequal",
+      "Description": "7 X 4 X 5/8 Angle"
+    },
+    {
+      "StandardName": "L 7 X 4 X 7/16",
+      "SurfaceArea": 1.833,
+      "lbsperft": 15.7,
+      "Type": "Angle Unequal",
+      "Description": "7 X 4 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 1",
+      "SurfaceArea": 2,
+      "lbsperft": 37.4,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 1 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 1/2",
+      "SurfaceArea": 2,
+      "lbsperft": 19.6,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 3/4",
+      "SurfaceArea": 2,
+      "lbsperft": 28.7,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 3/4 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 5/8",
+      "SurfaceArea": 2,
+      "lbsperft": 24.2,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 5/8 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 7/16",
+      "SurfaceArea": 2,
+      "lbsperft": 17.2,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 7/8",
+      "SurfaceArea": 2,
+      "lbsperft": 33.1,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 7/8 Angle"
+    },
+    {
+      "StandardName": "L 8 X 4 X 9/16",
+      "SurfaceArea": 2,
+      "lbsperft": 21.9,
+      "Type": "Angle Unequal",
+      "Description": "8 X 4 X 9/16 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 1",
+      "SurfaceArea": 2.333,
+      "lbsperft": 44.2,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 1 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 1/2",
+      "SurfaceArea": 2.333,
+      "lbsperft": 23,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 1/2 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 3/4",
+      "SurfaceArea": 2.333,
+      "lbsperft": 33.8,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 3/4 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 5/8",
+      "SurfaceArea": 2.333,
+      "lbsperft": 28.5,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 5/8 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 7/16",
+      "SurfaceArea": 2.333,
+      "lbsperft": 20.2,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 7/16 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 7/8",
+      "SurfaceArea": 2.333,
+      "lbsperft": 39.1,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 7/8 Angle"
+    },
+    {
+      "StandardName": "L 8 X 6 X 9/16",
+      "SurfaceArea": 2.333,
+      "lbsperft": 25.7,
+      "Type": "Angle Unequal",
+      "Description": "8 X 6 X 9/16 Angle"
+    }
+   ]

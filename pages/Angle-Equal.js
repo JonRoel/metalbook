@@ -22,28 +22,28 @@ export default class AngleEqual extends Component {
 
     handleClick = (event) => {
         const id = event.target.id;
-        this.setState({steelType: id}),
+        this.setState({steelType: id},
             function() {
-                dataUrl();
-            }
+                this.dataUrl();
+            });
     }
 
 dataUrl = () => {
     if(this.state.steelType === 'Mild Steel') {
-        this.setState({api: 'angle-equal.json'}),
+        this.setState({api: '/angle-equal.json'},
         function() {
-            this.useEffect();
-        }
+            this.componentDidMount();
+        });
     } else if(this.state.steelType === 'Stainless Steel') {
-        this.setState({api: 'ss-angle-equal.json'}),
+        this.setState({api: '/angle-unequal.json'},
         function() {
-            this.useEffect();
-        }
+            this.componentDidMount();
+        });
     }
 }
 
 componentDidMount() {
-    fetch('/data/angle-equal.json')
+    fetch(`${this.state.api}`)
         .then(res => res.json())
         .then(
         (result) => {
@@ -61,11 +61,9 @@ componentDidMount() {
         )
     }
 
-
-
 render() {
 
-    const { error, isLoaded, steelType } = this.state;
+    const { error, isLoaded, steelType, items } = this.state;
 
     if (!isLoaded) {
     return <div>Loading...</div>;
@@ -73,7 +71,7 @@ render() {
     return (
         <Row className="table-wrapper">
             <ButtonGroup aria-label="Basic example">
-                <Button onClick={this.handleClick} variant="secondary" id="Mild Steel" className="steeltypebutton">Mild Steel</Button>
+                <Button onClick={this.handleClick} variant="secondary" id="Mild Steel" className={steelType == "Mild Steel" ? "currentSteelType" : ""}>Mild Steel</Button>
                 <Button onClick={this.handleClick} variant="secondary" id="Stainless Steel" className="steeltypebutton">Stainless Steel</Button>
                 <Button onClick={this.handleClick} variant="secondary" id="Aluminum" className="steeltypebutton">Aluminum</Button>
             </ButtonGroup>
@@ -89,7 +87,7 @@ render() {
                 </tr>
             </thead>
             <tbody>
-                {this.state.items.map((data) => (
+                {items.map((data) => (
                     <tr key={data.StandardName}>
                         <td>{data.StandardName}</td>
                         <td>{data.SurfaceArea}</td>

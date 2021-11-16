@@ -18,5 +18,17 @@
   "devDependencies": {
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2"
-  }
+  },
+  "description": "",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonRoel/metalbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonRoel/metalbook/issues"
+  },
+  "homepage": "https://github.com/JonRoel/metalbook#readme"
 }
